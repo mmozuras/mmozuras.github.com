@@ -1,12 +1,6 @@
-.navbar .brand {
-  font-size: 30px;
-}
-
 .navbar ul li {
-  height: 50px;
-  width: 50px;
-  opacity: 0.75;
-  filter: alpha(opacity=75);
+  opacity: 0.70;
+  filter: alpha(opacity=70);
 }
 
 .navbar ul li:hover {
@@ -16,8 +10,8 @@
 
 .navbar ul li a {
   background-image: url(/images/social.png);
-  width: 30px;
-  height: 30px;
+  width: 20px;
+  height: 20px;
   background-repeat: no-repeat;
 }
 
@@ -32,4 +26,13 @@
 }
 .navbar ul li a#rss {
   background-position: -150px 0px;
+}
+
+.navbar .nav>li>a:hover {
+  background-color:transparent;
+  text-decoration:none;
+}
+
+.navbar .nav .active>a,.navbar .nav .active>a:hover {
+  text-decoration:none
 }
