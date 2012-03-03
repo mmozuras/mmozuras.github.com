@@ -1,3 +1,6 @@
 markdown: rdiscount
 auto: true
 permalink: pretty
+exclude:
+  - default.css
+  - README.md
