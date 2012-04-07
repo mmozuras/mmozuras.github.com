@@ -2,5 +2,6 @@ markdown: rdiscount
 auto: true
 permalink: pretty
 exclude:
+  _ _drafts
   - _sass
   - README.md
