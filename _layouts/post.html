@@ -9,5 +9,13 @@ layout: default
     </header>
 
     {{ content }}
+
+      {% if page.hn %}
+      <footer>
+        <p>
+          You can comment on this post over at <a href="{{ page.hn }}">Hacker News</a>.
+        </p>
+      </footer>
+      {% endif %}
   </article>
 </div>
