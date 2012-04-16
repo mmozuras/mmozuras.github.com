@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Hello World
-hn: http://news.ycombinator.com
+hn: http://news.ycombinator.com/item?id=3848619
 ---
 
 Welcome to my blog. My name is Mindaugas Mozūras, and I'm a twentysomething software developer. Here I intend write about anything that interests me - mostly various development topics, but there will probably be some general geekery as well. If you want to get a sense of what I'm currently excited about, check out my [GitHub](https://github.com/mmozuras) and [Twitter](https://twitter.com/mmozuras).
