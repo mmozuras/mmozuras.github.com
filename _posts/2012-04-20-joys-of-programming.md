@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Joys of Programming
-hn: http://news.ycombinator.com/
+hn: http://news.ycombinator.com/item?id=3868298
 ---
 
 I'm always surprised when I meet programmers who don't enjoy what they're doing. Don't misunderstand me - I realize that software development is not everyone's passion. Still stunned every time. For the life of me, I can't imagine doing anything else. For me, writing software is a great delight in more ways than one.
