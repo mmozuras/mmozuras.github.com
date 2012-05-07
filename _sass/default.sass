@@ -1,3 +1,9 @@
+$header: #333333
+$body: #222222
+$background: #fafafc
+$hover: #888888
+$border: #ffffff
+
 html
   font-size: 100%
   -webkit-text-size-adjust: 100%
@@ -5,7 +11,7 @@ html
 
 a
   &:focus
-    outline: thin dotted #333
+    outline: thin dotted $header
     outline: 5px auto -webkit-focus-ring-color
     outline-offset: -2px
   &:hover, &:active
@@ -19,8 +25,8 @@ body
   font-family: Lato, Helvetica, Arial, sans-serif
   font-size: 16px
   line-height: 20px
-  color: #222222
-  background-color: #fafafc
+  color: $body
+  background-color: $background
 
 article, footer, header, nav, section
   display: block
@@ -35,10 +41,10 @@ footer
   padding-top: 6px
 
 a
-  color: #222222
+  color: $body
   text-decoration: none
   &:hover
-    color: #888888
+    color: $hover
     text-decoration: underline
 
 .row
@@ -69,7 +75,7 @@ a
 h1, h2, h3
   margin: 0
   font-weight: bold
-  color: #333333
+  color: $header
   text-rendering: optimizelegibility
 
 h1
@@ -97,13 +103,10 @@ blockquote
 
 .nav>li>a
   display: block
-  &:hover
-    text-decoration: none
-    background-color: #eeeeee
 
 .nav
   .caret, &.active .caret, a:hover .caret
-    border-top-color: #ffffff
+    border-top-color: $border
     opacity: 1
     filter: alpha(opacity = 100)
 
@@ -114,15 +117,15 @@ blockquote
 .navbar-inner
   padding-left: 20px
   padding-right: 20px
-  background-color: #fafafc
-  background-image: -moz-linear-gradient(top, #fafafc, #fafafc)
-  background-image: -ms-linear-gradient(top, #fafafc, #fafafc)
-  background-image: -webkit-gradient(linear, 0 0, 0 100%, from(#fafafc), to(#fafafc))
-  background-image: -webkit-linear-gradient(top, #fafafc, #fafafc)
-  background-image: -o-linear-gradient(top, #fafafc, #fafafc)
-  background-image: linear-gradient(top, #fafafc, #fafafc)
+  background-color: $background
+  background-image: -moz-linear-gradient(top, $background, $background)
+  background-image: -ms-linear-gradient(top, $background, $background)
+  background-image: -webkit-gradient(linear, 0 0, 0 100%, from($background), to($background))
+  background-image: -webkit-linear-gradient(top, $background, $background)
+  background-image: -o-linear-gradient(top, $background, $background)
+  background-image: linear-gradient(top, $background, $background)
   background-repeat: repeat-x
-  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#fafafc',  endColorstr='#fafafc',  GradientType=0)
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='$background',  endColorstr='$background',  GradientType=0)
   -webkit-border-radius: 4px
   -moz-border-radius: 4px
   border-radius: 4px
@@ -131,8 +134,6 @@ blockquote
   box-shadow: 0 1px 3px rgba(0, 0, 0, 0.25), inset 0 -1px 0 rgba(0, 0, 0, 0.1)
 
 .navbar .brand
-  &:hover
-    text-decoration: none
   float: left
   display: block
   padding: 10px 20px 10px
@@ -140,7 +141,7 @@ blockquote
   font-size: 20px
   font-weight: 200
   line-height: 1
-  color: #ffffff
+  color: $border
 
 .navbar-fixed-top
   position: fixed
@@ -163,13 +164,13 @@ a
 
 h1, h2, h3, .brand, .navbar, a, blockquote>p
   font-family: Lato, Helvetica, Arial, sans-serif
-  color: #222222
+  color: $body
 
 h1, h2, h3, .brand
   font-weight: 700
 
 .navbar-inner
-  border-top: 1px solid #E5E5E5
+  border-top: 1px solid $border
   -webkit-box-shadow: 0 2px 4px rgba(0, 0, 0, 0.25), inset 0 -1px 0 rgba(0, 0, 0, 0.1)
   -moz-box-shadow: 0 2px 4px rgba(0, 0, 0, 0.25), inset 0 -1px 0 rgba(0, 0, 0, 0.1)
   box-shadow: 0 2px 4px rgba(0, 0, 0, 0.25), inset 0 -1px 0 rgba(0, 0, 0, 0.1)
@@ -188,40 +189,29 @@ h1, h2, h3, .brand
     float: none
     padding: 10px 10px 11px
     line-height: 19px
-    color: #222222
+    color: $body
     text-decoration: none
     text-shadow: 0 -1px 0 rgba(0, 0, 0, 0.25)
     &:hover
       background-color: transparent
-      color: #222222
+      color: $body
       text-decoration: none
   .nav.pull-right
     margin-left: 10px
     margin-right: 0
   .brand
-    color: #222222
+    color: $body
     text-shadow: none
     font-weight: bold
     &:hover
-      background-color: #EEEEEE
-  .nav>li>a
-    text-shadow: none
-  .nav .active>a
-    color: #222222
-    background-color: rgba(0, 0, 0, 0)
-    &:hover
-      color: #222222
-      background-color: rgba(0, 0, 0, 0)
-      background-color: #EEEEEE
-  .nav>li>a:hover
-    background-color: #EEEEEE
+      background-color: darken($background, 5%)
   .nav
     position: relative
     left: 0
     display: block
     float: left
     margin: 0 10px 0 0
-    border-top-color: #222222
+    border-top-color: $body
     opacity: 1
     list-style: none
     &.pull-right
@@ -234,9 +224,9 @@ h1, h2, h3, .brand
       filter: alpha(opacity = 100)
     a
       background-image: url(/images/social.png)
+      background-repeat: no-repeat
       width: 20px
       height: 20px
-      background-repeat: no-repeat
       &#twitter
         background-position: 0px -5px
       &#github
