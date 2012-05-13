@@ -1,0 +1,660 @@
+<!DOCTYPE html> <html lang='en'> <head> <meta charset='utf-8'> <title>Git Playback</title> <style type='text/css'>.container { margin-left: auto; margin-right: auto; width: 1000px; display:none; } .container div { width: 1000px; height: 800px; display:block; } body { background: #272822; } ul { list-style: none; } li { float: left; } pre { min-width: 480px; }</style> <link rel='stylesheet' href='http://yandex.st/highlightjs/6.2/styles/monokai.min.css' type='text/css'> </head> <body> <div id='playback'> <div class='container'>
+<div><ul>
+<li><pre><code>
+from calculator import add
+
+def describe_string_calculator():
+  pass
+</code></pre></li>
+<li><pre><code>
+def add(string):
+  pass
+</code></pre></li>
+</ul></div>
+<div><ul>
+<li><pre><code>
+from calculator import add
+
+def describe_string_calculator():
+  def returns_0_for_empty_string():
+    assert add('') == 0
+</code></pre></li>
+<li><pre><code>
+def add(string):
+  return 0
+</code></pre></li>
+</ul></div>
+<div><ul>
+<li><pre><code>
+from calculator import add
+
+def describe_string_calculator():
+  def returns_0_for_empty_string():
+    assert add('') == 0
+
+  def returns_bare_numbers():
+    assert add('1') == 1
+</code></pre></li>
+<li><pre><code>
+def add(string):
+  return 1 if string else 0
+</code></pre></li>
+</ul></div>
+<div><ul>
+<li><pre><code>
+from calculator import add
+
+def describe_string_calculator():
+  def returns_0_for_empty_string():
+    assert add('') == 0
+
+  def returns_bare_numbers():
+    assert add('0') == 0
+    assert add('1') == 1
+</code></pre></li>
+<li><pre><code>
+def add(string):
+  return int(string) if string else 0
+</code></pre></li>
+</ul></div>
+<div><ul>
+<li><pre><code>
+from calculator import add
+
+def describe_string_calculator():
+  def returns_0_for_empty_string():
+    assert add('') == 0
+
+  def returns_bare_numbers():
+    assert add('0') == 0
+    assert add('1') == 1
+
+  def adds_numbers():
+    assert add('1,2') == 3
+</code></pre></li>
+<li><pre><code>
+def add(string):
+  if ',' in string:
+    return 3
+  return int(string) if string else 0
+</code></pre></li>
+</ul></div>
+<div><ul>
+<li><pre><code>
+from calculator import add
+
+def describe_string_calculator():
+  def returns_0_for_empty_string():
+    assert add('') == 0
+
+  def returns_bare_numbers():
+    assert add('0') == 0
+    assert add('1') == 1
+
+  def adds_numbers():
+    assert add('1,2') == 3
+    assert add('1,10') == 11
+</code></pre></li>
+<li><pre><code>
+def add(string):
+  if ',' in string:
+    return sum(map(int, string.split(',')))
+  return int(string) if string else 0
+</code></pre></li>
+</ul></div>
+<div><ul>
+<li><pre><code>
+from calculator import add
+
+def describe_string_calculator():
+  def returns_0_for_empty_string():
+    assert add('') == 0
+
+  def returns_bare_numbers():
+    assert add('0') == 0
+    assert add('1') == 1
+
+  def adds_numbers():
+    assert add('1,2') == 3
+    assert add('1,10') == 11
+</code></pre></li>
+<li><pre><code>
+def add(string):
+  if string:
+    return _add_numbers_in_string(string)
+  else:
+    return 0
+
+def _add_numbers_in_string(string):
+  return sum(map(int, string.split(',')))
+</code></pre></li>
+</ul></div>
+<div><ul>
+<li><pre><code>
+from calculator import add
+
+def describe_string_calculator():
+  def returns_0_for_empty_string():
+    assert add('') == 0
+
+  def returns_bare_numbers():
+    assert add('0') == 0
+    assert add('1') == 1
+
+  def adds_numbers():
+    assert add('1,2') == 3
+    assert add('1,10') == 11
+
+  def describe_delimiters():
+    def can_be_newlines():
+      assert add('1\n2') == 3
+</code></pre></li>
+<li><pre><code>
+def add(string):
+  if '\n' in string;
+    return 3
+  if string:
+    return _add_numbers_in_string(string)
+  else:
+    return 0
+
+def _add_numbers_in_string(string):
+  return sum(map(int, string.split(',')))
+</code></pre></li>
+</ul></div>
+<div><ul>
+<li><pre><code>
+from calculator import add
+
+def describe_string_calculator():
+  def returns_0_for_empty_string():
+    assert add('') == 0
+
+  def returns_bare_numbers():
+    assert add('0') == 0
+    assert add('1') == 1
+
+  def adds_numbers():
+    assert add('1,2') == 3
+    assert add('1,10') == 11
+
+  def describe_delimiters():
+    def can_be_newlines():
+      assert add('1\n2') == 3
+</code></pre></li>
+<li><pre><code>
+def add(string):
+  string = string.replace('\n', ',')
+  if string:
+    return _add_numbers_in_string(string)
+  else:
+    return 0
+
+def _add_numbers_in_string(string):
+  return sum(map(int, string.split(',')))
+</code></pre></li>
+</ul></div>
+<div><ul>
+<li><pre><code>
+from calculator import add
+
+def describe_string_calculator():
+  def returns_0_for_empty_string():
+    assert add('') == 0
+
+  def returns_bare_numbers():
+    assert add('0') == 0
+    assert add('1') == 1
+
+  def adds_numbers():
+    assert add('1,2') == 3
+    assert add('1,10') == 11
+
+  def describe_delimiters():
+    def can_be_newlines():
+      assert add('1\n2') == 3
+
+    def can_be_custom():
+      assert add('//;\n1;2') == 3
+</code></pre></li>
+<li><pre><code>
+def add(string):
+  if string.startswith('//'):
+    return 3
+  string = string.replace('\n', ',')
+  if string:
+    return _add_numbers_in_string(string)
+  else:
+    return 0
+
+def _add_numbers_in_string(string):
+  return sum(map(int, string.split(',')))
+</code></pre></li>
+</ul></div>
+<div><ul>
+<li><pre><code>
+from calculator import add
+
+def describe_string_calculator():
+  def returns_0_for_empty_string():
+    assert add('') == 0
+
+  def returns_bare_numbers():
+    assert add('0') == 0
+    assert add('1') == 1
+
+  def adds_numbers():
+    assert add('1,2') == 3
+    assert add('1,10') == 11
+
+  def describe_delimiters():
+    def can_be_newlines():
+      assert add('1\n2') == 3
+
+    def can_be_custom():
+      assert add('//;\n1;2') == 3
+      assert add('//+\n1+10') == 11
+</code></pre></li>
+<li><pre><code>
+def add(string):
+  if string.startswith('//'):
+    delimiter = string[2]
+    string = string[4:]
+    string = string.replace(delimiter, ',')
+  string = string.replace('\n', ',')
+  if string:
+    return _add_numbers_in_string(string)
+  else:
+    return 0
+
+def _add_numbers_in_string(string):
+  return sum(map(int, string.split(',')))
+</code></pre></li>
+</ul></div>
+<div><ul>
+<li><pre><code>
+from calculator import add
+
+def describe_string_calculator():
+  def returns_0_for_empty_string():
+    assert add('') == 0
+
+  def returns_bare_numbers():
+    assert add('0') == 0
+    assert add('1') == 1
+
+  def adds_numbers():
+    assert add('1,2') == 3
+    assert add('1,10') == 11
+
+  def describe_delimiters():
+    def can_be_newlines():
+      assert add('1\n2') == 3
+
+    def can_be_custom():
+      assert add('//;\n1;2') == 3
+      assert add('//+\n1+10') == 11
+</code></pre></li>
+<li><pre><code>
+def add(string):
+  string = _normalize_delimiters(string)
+  if string:
+    return _add_numbers_in_string(string)
+  else:
+    return 0
+
+def _normalize_delimiters(string):
+  if string.startswith('//'):
+    delimiter = string[2]
+    string = string[4:]
+    string = string.replace(delimiter, ',')
+  string = string.replace('\n', ',')
+  return string
+
+def _add_numbers_in_string(string):
+  return sum(map(int, string.split(',')))
+</code></pre></li>
+</ul></div>
+<div><ul>
+<li><pre><code>
+from calculator import add
+
+def describe_string_calculator():
+  def returns_0_for_empty_string():
+    assert add('') == 0
+
+  def returns_bare_numbers():
+    assert add('0') == 0
+    assert add('1') == 1
+
+  def adds_numbers():
+    assert add('1,2') == 3
+    assert add('1,10') == 11
+
+  def describe_delimiters():
+    def can_be_newlines():
+      assert add('1\n2') == 3
+
+    def can_be_custom():
+      assert add('//;\n1;2') == 3
+      assert add('//+\n1+10') == 11
+</code></pre></li>
+<li><pre><code>
+def add(string):
+  string = _normalize_delimiters(string)
+  if string:
+    return _add_numbers_in_string(string)
+  else:
+    return 0
+
+def _normalize_delimiters(string):
+  string = _normalize_custom_delimiter(string)
+  string = string.replace('\n', ',')
+  return string
+
+def _normalize_custom_delimiter(string):
+  if string.startswith('//'):
+    delimiter = string[2]
+    string = string[4:]
+    string = string.replace(delimiter, ',')
+  return string
+
+def _add_numbers_in_string(string):
+  return sum(map(int, string.split(',')))
+</code></pre></li>
+</ul></div>
+<div><ul>
+<li><pre><code>
+from calculator import add
+
+def describe_string_calculator():
+  def returns_0_for_empty_string():
+    assert add('') == 0
+
+  def returns_bare_numbers():
+    assert add('0') == 0
+    assert add('1') == 1
+
+  def adds_numbers():
+    assert add('1,2') == 3
+    assert add('1,10') == 11
+
+  def describe_delimiters():
+    def can_be_newlines():
+      assert add('1\n2') == 3
+
+    def can_be_custom():
+      assert add('//;\n1;2') == 3
+      assert add('//+\n1+10') == 11
+      assert add('//abc\n1abc2abc3')
+
+    def can_be_mixed():
+      assert add('//;\n1,2;3\n4') == 10
+</code></pre></li>
+<li><pre><code>
+def add(string):
+  string = _normalize_delimiters(string)
+  if string:
+    return _add_numbers_in_string(string)
+  else:
+    return 0
+
+def _normalize_delimiters(string):
+  string = _normalize_custom_delimiter(string)
+  string = string.replace('\n', ',')
+  return string
+
+def _normalize_custom_delimiter(string):
+  if string.startswith('//'):
+    delimiter_spec, string = string.split('\n', 1)
+    delimiter = delimiter_spec[2:]
+    string = string.replace(delimiter, ',')
+  return string
+
+def _add_numbers_in_string(string):
+  return sum(map(int, string.split(',')))
+</code></pre></li>
+</ul></div>
+<div><ul>
+<li><pre><code>
+from calculator import add
+
+def describe_string_calculator():
+  def returns_0_for_empty_string():
+    assert add('') == 0
+
+  def returns_bare_numbers():
+    assert add('0') == 0
+    assert add('1') == 1
+
+  def adds_numbers():
+    assert add('1,2') == 3
+    assert add('1,10') == 11
+
+  def describe_delimiters():
+    def can_be_newlines():
+      assert add('1\n2') == 3
+
+    def can_be_custom():
+      assert add('//;\n1;2') == 3
+      assert add('//+\n1+10') == 11
+      assert add('//abc\n1abc2abc3')
+
+    def can_be_mixed():
+      assert add('//;\n1,2;3\n4') == 10
+
+    def rejects_negative_numbers():
+      assert raises(ValueError, add, '-1')
+</code></pre></li>
+<li><pre><code>
+def add(string):
+  if string.startswith('-'):
+    raise ValueError
+  string = _normalize_delimiters(string)
+  if string:
+    return _add_numbers_in_string(string)
+  else:
+    return 0
+
+def _normalize_delimiters(string):
+  string = _normalize_custom_delimiter(string)
+  string = string.replace('\n', ',')
+  return string
+
+def _normalize_custom_delimiter(string):
+  if string.startswith('//'):
+    delimiter_spec, string = string.split('\n', 1)
+    delimiter = delimiter_spec[2:]
+    string = string.replace(delimiter, ',')
+  return string
+
+def _add_numbers_in_string(string):
+  return sum(map(int, string.split(',')))
+</code></pre></li>
+</ul></div>
+<div><ul>
+<li><pre><code>
+from calculator import add
+
+def describe_string_calculator():
+  def returns_0_for_empty_string():
+    assert add('') == 0
+
+  def returns_bare_numbers():
+    assert add('0') == 0
+    assert add('1') == 1
+
+  def adds_numbers():
+    assert add('1,2') == 3
+    assert add('1,10') == 11
+
+  def describe_delimiters():
+    def can_be_newlines():
+      assert add('1\n2') == 3
+
+    def can_be_custom():
+      assert add('//;\n1;2') == 3
+      assert add('//+\n1+10') == 11
+      assert add('//abc\n1abc2abc3')
+
+    def can_be_mixed():
+      assert add('//;\n1,2;3\n4') == 10
+
+    def rejects_negative_numbers():
+      assert raises(ValueError, add, '-1')
+      assert raises(ValueError, add, '1,-2')
+</code></pre></li>
+<li><pre><code>
+def add(string):
+  if '-' in string:
+    raise ValueError
+  string = _normalize_delimiters(string)
+  if string:
+    return _add_numbers_in_string(string)
+  else:
+    return 0
+
+def _normalize_delimiters(string):
+  string = _normalize_custom_delimiter(string)
+  string = string.replace('\n', ',')
+  return string
+
+def _normalize_custom_delimiter(string):
+  if string.startswith('//'):
+    delimiter_spec, string = string.split('\n', 1)
+    delimiter = delimiter_spec[2:]
+    string = string.replace(delimiter, ',')
+  return string
+
+def _add_numbers_in_string(string):
+  return sum(map(int, string.split(',')))
+</code></pre></li>
+</ul></div>
+<div><ul>
+<li><pre><code>
+from calculator import add
+
+def describe_string_calculator():
+  def returns_0_for_empty_string():
+    assert add('') == 0
+
+  def returns_bare_numbers():
+    assert add('0') == 0
+    assert add('1') == 1
+
+  def adds_numbers():
+    assert add('1,2') == 3
+    assert add('1,10') == 11
+
+  def describe_delimiters():
+    def can_be_newlines():
+      assert add('1\n2') == 3
+
+    def can_be_custom():
+      assert add('//;\n1;2') == 3
+      assert add('//+\n1+10') == 11
+      assert add('//abc\n1abc2abc3')
+
+    def can_be_mixed():
+      assert add('//;\n1,2;3\n4') == 10
+
+    def can_be_minus_signs():
+      assert add('//-\n1-2') == 3
+
+    def rejects_negative_numbers():
+      assert raises(ValueError, add, '-1')
+      assert raises(ValueError, add, '1,-2')
+</code></pre></li>
+<li><pre><code>
+def add(string):
+  string = _normalize_delimiters(string)
+  if string:
+    return _add_numbers_in_string(string)
+  else:
+    return 0
+
+def _normalize_delimiters(string):
+  string = _normalize_custom_delimiter(string)
+  string = string.replace('\n', ',')
+  return string
+
+def _normalize_custom_delimiter(string):
+  if string.startswith('//'):
+    delimiter_spec, string = string.split('\n', 1)
+    delimiter = delimiter_spec[2:]
+    string = string.replace(delimiter, ',')
+  return string
+
+def _add_numbers_in_string(string):
+  numbers = map(int, string.split(','))
+  if any(number < 0 for number in numbers):
+    raise ValueError
+  return sum(numbers)
+</code></pre></li>
+</ul></div>
+<div><ul>
+<li><pre><code>
+from calculator import add
+
+def describe_string_calculator():
+  def returns_0_for_empty_string():
+    assert add('') == 0
+
+  def returns_bare_numbers():
+    assert add('0') == 0
+    assert add('1') == 1
+
+  def adds_numbers():
+    assert add('1,2') == 3
+    assert add('1,10') == 11
+
+  def describe_delimiters():
+    def can_be_newlines():
+      assert add('1\n2') == 3
+
+    def can_be_custom():
+      assert add('//;\n1;2') == 3
+      assert add('//+\n1+10') == 11
+      assert add('//abc\n1abc2abc3')
+
+    def can_be_mixed():
+      assert add('//;\n1,2;3\n4') == 10
+
+    def can_be_minus_signs():
+      assert add('//-\n1-2') == 3
+
+    def rejects_negative_numbers():
+      assert raises(ValueError, add, '-1')
+      assert raises(ValueError, add, '1,-2')
+</code></pre></li>
+<li><pre><code>
+def add(string):
+  string = _normalize_delimiters(string)
+  if string:
+    return _add_numbers_in_string(string)
+  else:
+    return 0
+
+def _normalize_delimiters(string):
+  string = _normalize_custom_delimiter(string)
+  string = string.replace('\n', ',')
+  return string
+
+def _normalize_custom_delimiter(string):
+  if string.startswith('//'):
+    delimiter_spec, string = string.split('\n', 1)
+    delimiter = delimiter_spec[2:]
+    string = string.replace(delimiter, ',')
+  return string
+
+def _add_numbers_in_string(string):
+  numbers = map(int, string.split(','))
+  _validate_numbers(numbers)
+  return sum(numbers)
+
+def _validate_numbers(numbers):
+  if any(number < 0 for number in numbers):
+    raise ValueError
+</code></pre></li>
+</ul></div>
+</div> </div> <script src='https://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js'></script> <script src='http://yandex.st/highlightjs/6.2/highlight.min.js'></script> <script type='text/javascript'>(function($){ $.fn.playback = function() { return this.each(function(){ $('.container', $(this)).children().wrapAll('<div class=control/>'); var elem = $(this), control = $('.control',elem), total = control.children().size(), width = control.children().outerWidth(), height = control.children().outerHeight(), start = 0, next = 0, prev = 0, number = 0, current = 0, loaded, active, position, direction; function animate(direction) { if (!active && loaded) { active = true; switch(direction) { case 'next': prev = current; next = current + 1; next = total === next ? 0 : next; position = width*2; direction = -width*2; current = next; break; case 'prev': prev = current; next = current - 1; next = next === -1 ? total-1 : next; position = 0; direction = 0; current = next; break; } control.children(':eq('+ next +')').css({ left: position, display: 'block' }); control.animate({ left: direction }, 350, function(){ control.css({ left: -width }); control.children(':eq('+ next +')').css({ left: width, zIndex: 5 }); control.children(':eq('+ prev +')').css({ left: width, display: 'none', zIndex: 0 }); active = false; }); } } if (start > total) { start = total - 1; } $('.container', elem).css({ overflow: 'hidden', position: 'relative' }); control.children().css({ position: 'absolute', top: 0, left: control.children().outerWidth(), zIndex: 0, display: 'none' }); control.css({ position: 'relative', width: (width + width + width), height: height, left: -width }); $('.container', elem).css({ display: 'block' }); control.children(':eq(' + start + ')').fadeIn(function(){ loaded = true; }); $("body").keydown(function(e) { if(e.keyCode == 37) { animate('prev'); } else if(e.keyCode == 39) { animate('next'); } }); }); }; })(jQuery);</script> <script> jQuery(document).ready(function(){ jQuery('#playback').playback(); hljs.initHighlightingOnLoad(); }); </script> </body> </html>
