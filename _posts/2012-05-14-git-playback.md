@@ -1,7 +1,7 @@
 ---
 layout: post
 title: git playback
-hn: http://news.ycombinator.com/
+hn: http://news.ycombinator.com/item?id=3972107
 ---
 
 It was a lovely Saturday afternoon... I just did a [code kata](http://en.wikipedia.org/wiki/Kata_(programming\)), but I was not entirely happy and not sure how to do it better. So I decided to look at how other developers tackled the same problem. Found a dozen repositories on [GitHub](https://github.com), but there were a couple of problems:
