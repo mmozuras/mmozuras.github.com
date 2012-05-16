@@ -6,7 +6,7 @@
    <meta http-equiv="content-type" content="text/html;charset=utf-8" />
    <title>{{ page.title }}</title>
    <meta name="author" content="Mindaugas Mozūras" />
-   <meta name="description" content="Coding Fearlessly - writings by Mindaugas Mozūras.">
+   <meta name="description" content="Coding Fearlessly - thoughts and code by Mindaugas Mozūras.">
    <link rel="alternate" type="application/rss+xml" href="http://feeds.feedburner.com/CodingFearlessly">
    <link href="http://fonts.googleapis.com/css?family=Lato:300,400,700" rel="stylesheet" type="text/css">
    <link href="/css/default.css" media="screen" rel="stylesheet" type="text/css" />
@@ -18,21 +18,30 @@
     <div class="navbar-inner">
       <div class="container">
         <a class="brand" href="/">Coding Fearlessly</a>
-        <ul class="nav pull-right">
+      </div>
+    </div>
+  </div>
+
+  <div class="container">
+    <div id="sidebar">
+      <div id="about">
+        <p>Thoughts and code by Mindaugas Mozūras</p>
+        <p>Software developer, technologie junkie and an all-around geek...</p>
+        <ul class="nav">
           <li><a id="twitter" href="https://twitter.com/mmozuras"></a></li>
           <li><a id="github" href="https://github.com/mmozuras"></a></li>
           <li><a id="rss" href="http://feeds.feedburner.com/CodingFearlessly"></a></li>
         </ul>
       </div>
+      {% include carbonads.html %}
     </div>
-  </div>
-
-  <div id="main" class="container">
-    <section>
-      <div class="row">
-        {{ content }}
-      </div>
-    </section>
+    <div id="main">
+      <section>
+        <div class="row">
+          {{ content }}
+        </div>
+      </section>
+    </div>
   </div>
 
 </body>
