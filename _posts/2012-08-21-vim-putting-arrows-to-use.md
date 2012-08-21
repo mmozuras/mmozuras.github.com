@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Vim - Putting arrows to use
-hn: http://news.ycombinator.com
+hn: http://news.ycombinator.com/item?id=4414092
 ---
 
 It's accepted among Vim users - arrow keys should be avoided at all possible cost. Using [hjkl is preferred](http://www.catonmat.net/blog/why-vim-uses-hjkl-as-arrow-keys/) and is advantageous. You never have to leave the home row - that let's you be faster and it's more comfortable for your hands. As someone who's already had to deal with a little bit of wrist pain, not having to move my hands to arrow keys (and don't get me started about the mouse) is favorable, to say the least.
