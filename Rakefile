@@ -11,12 +11,12 @@ end
 
 desc 'convert sass files to css'
 task :sass do
-  if not File.directory?('css')
-    Dir.mkdir('css')
-    puts 'Created /css directory'
+  if not File.directory?('static')
+    Dir.mkdir('static')
+    puts 'Created /static directory'
   end
 
-  `sass --style compressed _sass/default.sass > css/default.css`
+  `sass --style compressed _sass/default.sass > static/default.css`
   puts 'Converted Sass to Css'
 end
 

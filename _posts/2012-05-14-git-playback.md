@@ -13,7 +13,7 @@ Code Katas are about the process, not about the result. I wanted to a nice way t
 
 So what exactly is git-playback? It's a bash script that goes through all commits in the current branch of repository and creates a slideshow using the specified files. Example output (use arrow keys to navigate):
 
-[String Calculator Kata in Python](/string-calculator-kata-python.html)
+[String Calculator Kata in Python](/static/string-calculator-kata-python.html)
 
 You can find the source from which this playback was generated on [GitHub](https://github.com/mmozuras/string-calculator-kata-python).
 
