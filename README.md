@@ -1,6 +1,6 @@
 # Coding Fearlessly
 
-This repository contains data for my blog. It's automatically transformed by [Jekyll](https://github.com/mojombo/jekyll) into a static site whenever I push this repository to GitHub.
+This repository contains data for my blog. It's automatically transformed by [Jekyll](//github.com/mojombo/jekyll) into a static site whenever I push this repository to GitHub.
 
 ## License
 

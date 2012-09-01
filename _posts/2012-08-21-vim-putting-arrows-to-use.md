@@ -1,10 +1,10 @@
 ---
 layout: post
 title: Vim - Putting arrows to use
-hn: http://news.ycombinator.com/item?id=4414092
+hn: //news.ycombinator.com/item?id=4414092
 ---
 
-It's accepted among Vim users - arrow keys should be avoided at all possible cost. Using [hjkl is preferred](http://www.catonmat.net/blog/why-vim-uses-hjkl-as-arrow-keys/) and is advantageous. You never have to leave the home row - that let's you be faster and it's more comfortable for your hands. As someone who's already had to deal with a little bit of wrist pain, not having to move my hands to arrow keys (and don't get me started about the mouse) is favorable, to say the least.
+It's accepted among Vim users - arrow keys should be avoided at all possible cost. Using [hjkl is preferred](//www.catonmat.net/blog/why-vim-uses-hjkl-as-arrow-keys/) and is advantageous. You never have to leave the home row - that let's you be faster and it's more comfortable for your hands. As someone who's already had to deal with a little bit of wrist pain, not having to move my hands to arrow keys (and don't get me started about the mouse) is favorable, to say the least.
 
 It's not something you get used to immediately though. When I started using Vim, trying to not touch those alluring arrow keys was pretty hard. There's a way to make it easier, and something I've seen in other peoples vimrc - just remap arrow keys to do absolutely nothing:
 
@@ -31,7 +31,7 @@ That takes care of moving text left and right. What about up and down?
     vmap <Up> [egv
     vmap <Down> ]egv
 
-[Tim Pope](https://github.com/tpope), among a lot of other cool things, put together [unimpaired](https://github.com/tpope/vim-unimpaired), which contains commands [\[e](https://github.com/tpope/vim-unimpaired/blob/master/plugin/unimpaired.vim#L152) and [\]e](https://github.com/tpope/vim-unimpaired/blob/master/plugin/unimpaired.vim#L153). They move text up and down - which fits perfectly here.
+[Tim Pope](//github.com/tpope), among a lot of other cool things, put together [unimpaired](//github.com/tpope/vim-unimpaired), which contains commands [\[e](//github.com/tpope/vim-unimpaired/blob/master/plugin/unimpaired.vim#L152) and [\]e](//github.com/tpope/vim-unimpaired/blob/master/plugin/unimpaired.vim#L153). They move text up and down - which fits perfectly here.
 
 This is just one example you can map your arrows to. There are other alternatives. For example, navigating splits:
 
@@ -42,4 +42,4 @@ This is just one example you can map your arrows to. There are other alternative
 
 I just might remap `hjkl` to split navigation, because I use `hjkl` less and less, favoring navigating in other ways. Sounds crazy, I know ;)
 
-You can check out my `vimfiles` on [GitHub](https://www.github.com/mmozuras/vimfiles). Would love to hear your thoughts on arrows and `hjkl` usage in Vim.
+You can check out my `vimfiles` on [GitHub](//www.github.com/mmozuras/vimfiles). Would love to hear your thoughts on arrows and `hjkl` usage in Vim.
