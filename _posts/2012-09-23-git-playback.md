@@ -16,15 +16,15 @@ The feedback after the [first post](/2012/05/14/git-playback) about [git-playbac
 
     [String Calculator Kata in Python](/static/string-calculator-kata-python-v0.2.html)
 
-    Hope you'll like it too. Learning how to [parse a diff](https://github.com/mmozuras/git-playback/blob/v0.2/git-playback.sh#L209) was really fun. I ended up using a CSS3 transitions for animation, but while the end code looks rather simple, there were a lot of bumps on the road. Huge thanks to [Erikas](//github.com/erikasb) for helping figure it out.
+    Hope you'll like it too. Learning how to [parse a diff](https://github.com/mmozuras/git-playback/blob/v0.2/git-playback.sh#L209) was really fun. I ended up using CSS3 transitions for animation, but while the end code looks rather simple, there were a lot of bumps on the road. Huge thanks to [Erikas](//github.com/erikasb) for helping figure it out.
 
 *   Styles
 
-    [Hightlight.js](//softwaremaniacs.org/soft/highlight/en/) is used for syntax highlighting. It supports many different [styles](//softwaremaniacs.org/media/soft/highlight/test.html) and now it's pretty easy to use them with git-playback.
+    [Highlight.js](//softwaremaniacs.org/soft/highlight/en/) is used for syntax highlighting. It supports many different [styles](//softwaremaniacs.org/media/soft/highlight/test.html) and now it's pretty easy to use them with git-playback.
 
 *   Output with commit message
 
-    By default, output will contain a commit message, homewer it's still possible to have output without commit message by specifying --no-message flag:
+    By default, output will contain a commit message, however it's still possible to have output without commit message by specifying --no-message flag:
 
     [No commit message and Zenburn](/static/string-calculator-kata-python-v0.2-zenburn.html)
 
