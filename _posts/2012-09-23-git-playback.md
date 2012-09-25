@@ -12,7 +12,7 @@ The feedback after the [first post](/2012/05/14/git-playback) about [git-playbac
 
 *   Better transition
 
-    The most requested feature on [Hacker News](//news.ycombinator.com/item?id=3972107) was a better transition between commits. I played around with multiple ways to do it and settled on the current one. I think that it works amazingly well. Have a look yourself:
+    The most requested feature on [Hacker News](//news.ycombinator.com/item?id=3972107) was a better transition between commits. I played around with multiple ways to do it and settled on the current one. I think that it works amazingly well. Have a look yourself (use left and right arrows to navigate):
 
     [String Calculator Kata in Python](/static/string-calculator-kata-python-v0.2.html)
 
