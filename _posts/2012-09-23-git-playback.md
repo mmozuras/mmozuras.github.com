@@ -1,7 +1,7 @@
 ---
 layout: post
 title: git playback 0.2
-hn: //news.ycombinator.com/
+hn: //news.ycombinator.com/item?id=4571253
 ---
 
 The feedback after the [first post](/2012/05/14/git-playback) about [git-playback][repository] was amazing. I've been slowly improving it for the last couple of months and I'm pretty happy where it is right now. What's new:
