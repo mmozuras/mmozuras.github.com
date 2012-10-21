@@ -1,3 +1,4 @@
+#!/usr/bin/env rake
 desc 'preview blog'
 task :preview => [:clean, :sass] do
   `jekyll --auto --server`
@@ -20,3 +21,4 @@ task :sass do
   puts 'Converted Sass to Css'
 end
 
+task :default => :preview
