@@ -8,3 +8,5 @@ The following directories and their contents are Copyright Mindaugas Mozūras. Y
 
 * _posts/
 * images/
+
+Testing
