@@ -10,3 +10,4 @@ The following directories and their contents are Copyright Mindaugas Mozūras. Y
 * images/
 
 testing
+Testing
