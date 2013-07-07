@@ -1,5 +1,4 @@
 markdown: rdiscount
-auto: true
 permalink: pretty
 exclude:
   - _sass
