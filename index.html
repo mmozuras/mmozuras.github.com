@@ -8,7 +8,6 @@ title: Coding Fearlessly
     <article>
       <header>
         <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
-        <p class="meta">{{ post.date | date:"%B %e, %Y" }}</p>
       </header>
 
       <p>{{ post.content | strip_html | truncatewords: 40  }}
