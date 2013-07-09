@@ -1,7 +1,7 @@
 #!/usr/bin/env rake
 desc 'preview blog'
 task :preview => [:clean, :sass] do
-  `jekyll --auto --server`
+  `jekyll serve`
 end
 
 desc 'clean site'
