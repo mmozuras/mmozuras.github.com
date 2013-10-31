@@ -1,6 +1,6 @@
 markdown: rdiscount
 permalink: pretty
 exclude:
-  - _sass
   - README.md
   - Rakefile
+  - sass

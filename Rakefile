@@ -1,7 +1,8 @@
 #!/usr/bin/env rake
+#
 desc 'preview blog'
-task :preview => [:clean, :sass] do
-  `jekyll serve`
+task preview: [:clean, :sass] do
+  system('jekyll serve')
 end
 
 desc 'clean site'
@@ -12,13 +13,13 @@ end
 
 desc 'convert sass files to css'
 task :sass do
-  if not File.directory?('static')
-    Dir.mkdir('static')
-    puts 'Created /static directory'
+  unless File.directory?('assets/css')
+    Dir.mkdir('assets/css')
+    puts 'Created /assets/css directory'
   end
 
-  `sass --style compressed _sass/default.sass > static/default.css`
+  `sass --style compressed assets/sass/default.sass > assets/css/default.css`
   puts 'Converted Sass to Css'
 end
 
-task :default => :preview
+task default: :preview
