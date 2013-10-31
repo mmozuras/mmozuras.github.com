@@ -1,47 +1,40 @@
-<!DOCTYPE html>
-<html>
-<head>
-   <meta http-equiv="content-type" content="text/html;charset=utf-8" />
-   <title>{{ page.title }}</title>
-   <meta name="author" content="Mindaugas Mozūras" />
-   <meta name="description" content="Coding Fearlessly - thoughts and code by Mindaugas Mozūras.">
-   <meta name="google-site-verification" content="25HZCMZ1yt0Mwusf0ABR7Q8a6OyLP_OcSFLFo8XuFUg" />
-   <link rel="alternate" type="application/rss+xml" href="//feeds.feedburner.com/CodingFearlessly">
-   <link href="//fonts.googleapis.com/css?family=Lato:300,400,700" rel="stylesheet" type="text/css">
-   <link href="/assets/css/default.css" media="screen" rel="stylesheet" type="text/css" />
-</head>
-<body>
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="content-type" content="text/html;charset=utf-8" />
+    <meta content="IE=edge,chrome=1" http-equiv="X-UA-Compatible" >
+    <meta content="width=device-width,initial-scale=1" name="viewport">
+    <meta name="google-site-verification" content="25HZCMZ1yt0Mwusf0ABR7Q8a6OyLP_OcSFLFo8XuFUg" />
+    <meta content="{{ site.description }}" name="description">
+    <meta content="{{ site.author.name }}" name="author">
 
-  <div class="navbar">
-    <div class="navbar-inner">
-      <div class="container">
-        <a class="brand" href="/">Coding Fearlessly</a>
-      </div>
-    </div>
-  </div>
+    <title>{% if page.title %}{{ page.title }} &mdash; {% endif %}{{ site.title }}</title>
 
-  <div class="container">
-    <div id="sidebar">
-      <div id="about">
-        <p>Thoughts and code by Mindaugas Mozūras</p>
-        <p>Software developer, technologie junkie and an all-around geek...</p>
-        <ul class="nav">
-          <li><a id="twitter" href="//twitter.com/mmozuras"></a></li>
-          <li><a id="github" href="//github.com/mmozuras"></a></li>
-          <li><a id="rss" href="//feeds.feedburner.com/CodingFearlessly"></a></li>
-        </ul>
-      </div>
-      {% include carbonads.html %}
-    </div>
-    <div id="main">
-      <section>
-        <div class="row">
-          {{ content }}
+    <link href="/assets/css/default.css" rel="stylesheet">
+    <link rel="stylesheet" type="text/css" href="http://fonts.googleapis.com/css?family=Cousine">
+
+    <link rel="alternate" type="application/rss+xml" href="{{ site.author.rss }}">
+  </head>
+  <body>
+    <div class="wrap">
+      <header>
+        <div class="title">
+          <a href="/">{{ site.title }}</a>
         </div>
-      </section>
-    </div>
-  </div>
 
-  {% include gauges.html %}
-</body>
+        <div class="navi">
+          <ul>
+            <li><a href="//twitter.com/{{ site.author.twitter }}">Twitter</a></li>
+            <li><a href="//github.com/{{ site.author.github }}">GitHub</a></li>
+            <li><a href="{{ site.author.rss }}">RSS</a></li>
+          <ul>
+        </div>
+      </header>
+
+      {{ content }}
+    </div>
+
+    {% include gauges.html %}
+  </body>
 </html>

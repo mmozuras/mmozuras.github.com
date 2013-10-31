@@ -1,3 +1,12 @@
+title: Coding Fearlessly
+description: Coding Fearlessly - thoughts and code by Mindaugas Mozūras.
+
+author:
+  name: Mindaugas Mozūras
+  twitter: mmozuras
+  github: mmozuras
+  rss: //feeds.feedburner.com/CodingFearlessly
+
 markdown: rdiscount
 permalink: pretty
 exclude:
