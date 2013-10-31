@@ -1,0 +1,5 @@
+$font-path: "../fonts/";
+
+@include font-face('sorts-mill-goudy', '#{$font-path}GoudyStM-webfont');
+@include font-face('sorts-mill-goudy-italic', '#{$font-path}GoudyStM-Italic-webfont');
+@include font-face('nevis', '#{$font-path}nevis-webfont');

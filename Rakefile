@@ -1,5 +1,4 @@
 #!/usr/bin/env rake
-#
 desc 'preview blog'
 task preview: [:clean, :sass] do
   system('jekyll serve')
@@ -18,7 +17,7 @@ task :sass do
     puts 'Created /assets/css directory'
   end
 
-  `sass --style compressed assets/sass/default.sass > assets/css/default.css`
+  `sass --style compressed assets/sass/default.scss > assets/css/default.css`
   puts 'Converted Sass to Css'
 end
 
