@@ -202,3 +202,17 @@ p > code {
   background-color: $code-background-color;
   white-space: nowrap;
 }
+
+#carbonads-container {
+  display: inline-block;
+  margin-left: 40em;
+  height: 0px;
+  margin-bottom: 0em;
+  width: 0px;
+  min-height: 0px;
+  min-width: 0px;
+}
+
+.carbonad {
+  border-width: 1px;
+}
