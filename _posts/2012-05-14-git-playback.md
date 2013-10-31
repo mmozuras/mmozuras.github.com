@@ -4,8 +4,6 @@ title: git playback
 hn: //news.ycombinator.com/item?id=3972107
 ---
 
-_UPDATED: Read more - [git playback 0.2](/2012/09/23/git-playback/)_
-
 It was a lovely Saturday afternoon... I just did a [code kata](//en.wikipedia.org/wiki/Kata_(programming\)), but I was not entirely happy and not sure how to do it better. So I decided to look at how other developers tackled the same problem. Found a dozen repositories on [GitHub](//github.com), but there were a couple of problems:
 
 * A lot of them consisted of exactly one commit.
