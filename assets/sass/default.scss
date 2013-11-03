@@ -91,6 +91,10 @@ header {
       padding: 0;
       list-style: none;
 
+      li + li {
+        border-left: 1px solid $light-gray;
+      }
+
       li {
         @include inline-block;
         margin: 0;
