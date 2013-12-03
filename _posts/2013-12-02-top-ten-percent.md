@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Top Ten Percent
+hn: //news.ycombinator.com/item?id=6838984
 ---
 
 We were discussing something with a co-worker that I perceived as a problem, yet he didn't. One of his arguments was:
