@@ -66,6 +66,11 @@ header {
   border-bottom: 1px solid $light-gray;
   text-align: center;
 
+  @media only screen and (max-width: 1200px) {
+    margin-bottom: 0px;
+    padding-bottom: 0px;
+  }
+
   .title {
     font-family: $blog-title-font;
     font-size: $blog-title-font-size;
@@ -208,13 +213,22 @@ p > code {
 }
 
 #carbonads-container {
-  display: inline-block;
-  margin-left: 40em;
-  height: 0px;
-  margin-bottom: 0em;
-  width: 0px;
-  min-height: 0px;
-  min-width: 0px;
+  @media only screen and (min-width: 1200px) {
+    display: inline-block;
+    margin-left: 40em;
+    height: 0px;
+    margin-bottom: 0em;
+    width: 0px;
+    min-height: 0px;
+    min-width: 0px;
+  }
+  @media only screen and (max-width: 1200px) {
+    display: block;
+    vertical-align: middle;
+    width: 154px;
+    margin: 0 auto;
+    padding: 1em;
+  }
 }
 
 .carbonad {
