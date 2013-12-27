@@ -87,12 +87,12 @@ header {
     }
   }
 
-  .navi {
-    font-family: $navi-font;
-    font-size: $navi-font-size;
+  .navigation {
+    font-family: $navigation-font;
+    font-size: $navigation-font-size;
 
     ul {
-      margin: $navi-top-spacing 0 0 0;
+      margin: $navigation-top-spacing 0 0 0;
       padding: 0;
       list-style: none;
 
@@ -103,7 +103,7 @@ header {
       li {
         @include inline-block;
         margin: 0;
-        padding: 0 ($navi-link-spacing/2 * 1em);
+        padding: 0 ($navigation-link-spacing/2 * 1em);
 
         a {
           color: $black;
