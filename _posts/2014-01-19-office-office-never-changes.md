@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Office. Office never changes
+hn: //news.ycombinator.com/item?id=7085356
 ---
 
 Office. Office never changes
