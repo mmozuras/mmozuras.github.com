@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Software Development is not Typing
+hn: //news.ycombinator.com/item?id=7178164
 ---
 
 What is software development? Is it typing features that your product people come up with into your text editor as quickly as possible?
