@@ -32,8 +32,7 @@ body {
 }
 
 em {
-  font-style: normal;
-  font-family: $body-font-italic;
+  font-style: italic;
 }
 
 h1 {
@@ -129,7 +128,7 @@ a {
 }
 
 blockquote {
-  font-family: $blockquote-font-family;
+  font-style: italic;
   font-size: $blockquote-font-size;
 }
 
