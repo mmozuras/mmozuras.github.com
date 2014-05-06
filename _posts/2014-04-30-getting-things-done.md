@@ -2,6 +2,7 @@
 layout: post
 title: Getting Things Done
 hn: https://news.ycombinator.com/item?id=7672656
+reddit: http://www.reddit.com/r/productivity/comments/24d7l3/how_ceo_of_vinted_gets_things_done/
 ---
 
 _This post was originally written by Justas Janauskas, CEO of [Vinted](//vinted.com), edited for publishing by me and Marek Ivanovskis_
