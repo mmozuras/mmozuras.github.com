@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Continuous Static Analysis using Pronto
-hn:
+hn: https://news.ycombinator.com/item?id=8568999
 reddit:
 ---
 
