@@ -2,7 +2,7 @@
 layout: post
 title: Continuous Static Analysis using Pronto
 hn: https://news.ycombinator.com/item?id=8568999
-reddit:
+reddit: http://www.reddit.com/r/programming/comments/2li1ss/continuous_static_analysis_using_pronto/
 ---
 
 Code quality and consistency is important. There are a ton of great open source tools and libraries that provide insights. For example: [Rubocop][rubocop] checks your style and [Brakeman][brakeman] scans for security vulnerabilities. You can run them easily and get a summary. But especially on a bigger codebase, that can take a while and result in a long list of issues.
