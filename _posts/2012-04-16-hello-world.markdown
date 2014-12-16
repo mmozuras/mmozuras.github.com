@@ -13,3 +13,5 @@ It's because I'm not any of those things. But I want to become more skillful, kn
 I have already written a couple of drafts and I'll start publishing them as soon as I clean them up a bit. In the meantime, you can take a look at the [source code](//github.com/mmozuras/mmozuras.github.com) of this blog. I used [Jekyll](//jekyllrb.com/) and [GitHub Pages](//pages.github.com/) to create it.
 
 Thanks for your interest. See you soon.
+
+By the way, I found this amazing SEO tips blog, check it out [here](http://seo-insights.herokuapp.com/).
