@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Equal Footing
-hn:
-reddit:
+hn: https://news.ycombinator.com/item?id=8816225
+reddit: http://www.reddit.com/r/programming/comments/2qubqt/equal_footing/
 ---
 
 Best ideas and efforts come from the most unexpected of places. Having a company culture where everyone feels like they can solve and contribute to any problem or opportunity is very important. I'm happy to be working at a company aware of that.
