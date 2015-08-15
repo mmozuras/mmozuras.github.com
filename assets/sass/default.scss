@@ -210,26 +210,3 @@ p > code {
   background-color: $code-background-color;
   white-space: nowrap;
 }
-
-#carbonads-container {
-  @media only screen and (min-width: 1200px) {
-    display: inline-block;
-    margin-left: 40em;
-    height: 0px;
-    margin-bottom: 0em;
-    width: 1px;
-    min-height: 0px;
-    min-width: 0px;
-  }
-  @media only screen and (max-width: 1200px) {
-    display: block;
-    vertical-align: middle;
-    width: 154px;
-    margin: 0 auto;
-    padding: 1em;
-  }
-}
-
-.carbonad {
-  border-width: 1px;
-}
