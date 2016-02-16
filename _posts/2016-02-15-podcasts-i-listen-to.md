@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Podcasts I Listen To
+reddit: https://www.reddit.com/r/podcasts/comments/461j6f/podcasts_i_listen_to/
 ---
 
 I've started listening to podcasts sometime in 2007, almost 9 years ago. [DotNetRocks](//dotnetrocks.com/) was my first show. Can't remember whichever episode was the first one, but I distinctly remember listening to Billy Hollis talk about Complexity ([show #214, 2007-02-13](//dotnetrocks.com/?show=214)) and trying really really hard to keep up. Stopping and rewinding was not unusual.

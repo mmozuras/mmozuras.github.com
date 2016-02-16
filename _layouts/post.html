@@ -10,11 +10,15 @@ layout: default
 
     {{ content }}
 
-    {% if page.hn %}
+    {% if page.hn or page.reddit %}
     <footer>
-      You can comment on this post over at <a href="{{ page.hn }}">Hacker News</a>
-      {% if page.reddit %}
-        or <a href="{{ page.reddit }}">Reddit</a>
+      {% if page.hn %}
+        You can comment on this post over at <a href="{{ page.hn }}">Hacker News</a>
+        {% if page.reddit %}
+          or <a href="{{ page.reddit }}">Reddit</a>
+        {% endif %}
+      {% elsif page.reddit %}
+        You can comment on this post over at <a href="{{ page.reddit }}">Reddit</a>
       {% endif %}
     </footer>
     {% endif %}
