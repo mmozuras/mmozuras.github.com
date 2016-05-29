@@ -1,7 +1,7 @@
-@import "bourbon/bourbon";
-@import "typography";
-@import "variables";
-@import "responsive";
+@import 'bourbon/bourbon';
+@import 'typography';
+@import 'variables';
+@import 'responsive';
 
 *::selection {
   background: $main-color;
@@ -19,12 +19,12 @@
 }
 
 body {
-  margin: 0;
-  padding: 0;
   border-top: $top-line-weight solid $black;
+  color: $black;
   font-family: $body-font;
   font-size: $body-font-size;
-  color: $black;
+  margin: 0;
+  padding: 0;
 
   @media only screen and (max-width: 1000px) {
     font-size: 1.1em;
@@ -36,38 +36,34 @@ em {
 }
 
 h1 {
-  margin-top: $heading-top-spacing;
   font-size: $heading-font-size;
-  font-weight: $heading-font-weight;
   font-style: $heading-font-style;
+  font-weight: $heading-font-weight;
+  margin-top: $heading-top-spacing;
   text-align: $page-title-align;
 }
 
 h2 {
-  margin-top: $subheading-top-spacing;
   font-size: $subheading-font-size;
-  font-weight: $subheading-font-weight;
   font-style: $subheading-font-style;
+  font-weight: $subheading-font-weight;
+  margin-top: $subheading-top-spacing;
 }
 
-.wrap {
-  margin: 0 auto;
+header {
+  border-bottom: 1px solid $light-gray;
+  margin: 0 auto $space-between-posts / 2 * 1em;
+  padding: $header-spacing 0;
+  text-align: center;
   width: $content-width;
 
   @media only screen and (min-width: 0px) and (max-width: 1200px) {
     width: 90%;
   }
-}
-
-header {
-  margin-bottom: $space-between-posts/2*1em;
-  padding: $header-spacing 0;
-  border-bottom: 1px solid $light-gray;
-  text-align: center;
 
   @media only screen and (max-width: 1200px) {
-    margin-bottom: 0px;
-    padding-bottom: 0px;
+    margin-bottom: 0;
+    padding-bottom: 0;
   }
 
   .title {
@@ -80,7 +76,7 @@ header {
       text-decoration: none;
 
       &:hover,
-      &:active{
+      &:active {
         color: $main-color;
       }
     }
@@ -91,9 +87,9 @@ header {
     font-size: $navigation-font-size;
 
     ul {
+      list-style: none;
       margin: $navigation-top-spacing 0 0 0;
       padding: 0;
-      list-style: none;
 
       li + li {
         border-left: 1px solid $light-gray;
@@ -109,7 +105,7 @@ header {
           text-decoration: none;
 
           &:hover,
-          &:active{
+          &:active {
             color: $main-color;
           }
         }
@@ -128,28 +124,40 @@ a {
 }
 
 blockquote {
-  font-style: italic;
   font-size: $blockquote-font-size;
+  font-style: italic;
 }
 
 article {
-  margin-bottom: $space-between-posts*1em;
-  padding: 0;
   font-size: $post-font-size;
   line-height: $post-font-line-height;
+  margin: 0 auto $space-between-posts / 2 * 1em;
+  padding: 0;
   text-align: $post-align;
+  width: $content-width;
+
+  @media only screen and (min-width: 0px) and (max-width: 1200px) {
+    width: 90%;
+  }
+
+  @media only screen and (max-width: 1200px) {
+    margin-bottom: 0;
+    padding-bottom: 0;
+  }
 
   .content {
     padding-bottom: $post-content-bottom-space;
   }
 
   footer {
-    padding: $tags-spacing 0;
     border-bottom: 1px solid $light-gray;
     border-top: 1px solid $light-gray;
+    padding: $tags-spacing 0;
   }
 
-  h1, h2, h3 {
+  h1,
+  h2,
+  h3 {
     text-align: $subheadings-align;
 
     a {
@@ -162,15 +170,13 @@ article {
   }
 
   header {
-    margin: 0 0 $post-content-top-space 0;
+    border: 0;
     padding: 0;
-    border: 0px;
-    text-align: center;
 
     h1 {
       font-size: $post-title-font-size;
-      font-weight: $post-title-font-weight;
       font-style: $post-title-font-style;
+      font-weight: $post-title-font-weight;
       line-height: $post-title-line-height;
       text-align: $post-title-align;
     }
@@ -182,21 +188,21 @@ article {
   }
 
   hr {
-    margin: $hr-spacing !important;
-    height: 1px;
-    border: none;
-    color: $light-gray;
     background-color: $light-gray;
+    border: 0;
+    color: $light-gray;
+    height: 1px;
+    margin: $hr-spacing !important;
   }
 }
 
 pre {
-  position: relative;
+  background-color: $code-background-color;
   border: 1px solid $light-gray;
   line-height: $code-block-line-height;
-  background-color: $code-background-color;
   overflow: hidden;
-  padding: 0.5em;
+  padding: .5em;
+  position: relative;
 }
 
 code {
@@ -206,7 +212,7 @@ code {
 }
 
 p > code {
-  border: 1px solid $light-gray;
   background-color: $code-background-color;
+  border: 1px solid $light-gray;
   white-space: nowrap;
 }
