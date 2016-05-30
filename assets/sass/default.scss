@@ -60,6 +60,10 @@ header {
     @media only screen and (min-width: 0px) and (max-width: 1200px) {
       max-width: 100%;
     }
+
+    @media only screen and (max-width: 600px) {
+      text-align: center;
+    }
   }
 
   .background {
@@ -67,10 +71,6 @@ header {
     background-repeat: no-repeat;
     background-size: cover;
     height: 400px;
-  }
-
-  .title {
-    font-size: $blog-title-font-size * 1.5;
   }
 
   .navigation {
@@ -86,6 +86,10 @@ header {
     nav {
       display: inline-block;
       float: right;
+
+      @media only screen and (max-width: 600px) {
+        float: none;
+      }
     }
 
     a {
@@ -97,6 +101,11 @@ header {
       &:active {
         color: $main-color;
       }
+    }
+
+    .title {
+      font-size: $blog-title-font-size * 1.6;
+      padding-left: 0;
     }
   }
 }
@@ -160,6 +169,10 @@ article {
     border: 0;
     padding: 0;
     width: $content-width;
+
+    @media only screen and (min-width: 0px) and (max-width: 1200px) {
+      width: 90%;
+    }
 
     @media only screen and (max-width: 1200px) {
       margin-bottom: 0;
