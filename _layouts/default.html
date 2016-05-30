@@ -2,12 +2,9 @@
 <html lang="en">
   {% include head.html %}
   <body>
-    <header style="background-image: url(/assets/images/background.jpg);">
-      <div class="title">
-        <a href="/">{{ site.title }}</a>
-      </div>
-
+    <header>
       {% include navigation.html %}
+      <div class="background" style="background-image: url(/assets/images/background.jpg);"></div>
     </header>
 
     {{ content }}

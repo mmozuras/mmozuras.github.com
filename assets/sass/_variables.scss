@@ -3,22 +3,17 @@ $main-color: #f00;
 
 $white: #fff;
 $light-gray: #dfdfdf;
-$light-light-gray: #f8f8f8;
 $gray: #b0b0b0;
 $black: #333;
+$transparent-black: rgba(0, 0, 0, .6);
 
 // Typography
 $body-font: 'Sorts Mill Goudy';
 $body-font-size: 1.2em;
 
 $blog-title-font: 'nevis';
-$blog-title-font-size: 2.3em;
+$blog-title-font-size: .85em;
 $blog-title-text-transform: uppercase;
-
-$navigation-font: 'Sorts Mill Goudy';
-$navigation-font-size: 1.15em;
-
-$page-title-align: center;
 
 $post-font-size: 1.2em;
 $post-font-line-height: 1.7em;
@@ -61,13 +56,6 @@ $content-width: 50%;
 
 // Space above and below the header section
 $header-spacing: 200px;
-
-// Weight of the line at the top of the page
-$top-line-weight: 8px;
-
-// Space between header links (this will be in ems)
-$navigation-link-spacing: .8;
-$navigation-top-spacing: .4em;
 
 // Space between the date and the post
 $post-content-top-space: 3em;

@@ -19,7 +19,6 @@
 }
 
 body {
-  border-top: $top-line-weight solid $black;
   color: $black;
   font-family: $body-font;
   font-size: $body-font-size;
@@ -40,7 +39,7 @@ h1 {
   font-style: $heading-font-style;
   font-weight: $heading-font-weight;
   margin-top: $heading-top-spacing;
-  text-align: $page-title-align;
+  text-align: $post-title-align;
 }
 
 h2 {
@@ -51,58 +50,52 @@ h2 {
 }
 
 header {
-  background-position: center center;
-  background-repeat: no-repeat;
-  background-size: cover;
-
   border-bottom: 1px solid $light-gray;
   margin: 0 auto $space-between-posts / 2 * 1em;
-  padding: $header-spacing 0;
-  text-align: center;
+
+  .container {
+    margin: 0 auto;
+    max-width: 42rem;
+
+    @media only screen and (min-width: 0px) and (max-width: 1200px) {
+      max-width: 100%;
+    }
+  }
+
+  .background {
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 400px;
+  }
 
   .title {
+    font-size: $blog-title-font-size * 1.5;
+  }
+
+  .navigation {
+    background-color: $transparent-black;
+    color: $white;
     font-family: $blog-title-font;
     font-size: $blog-title-font-size;
+    padding: .2em;
+    position: absolute;
     text-transform: $blog-title-text-transform;
+    width: 100%;
+
+    nav {
+      display: inline-block;
+      float: right;
+    }
 
     a {
       color: $white;
-      text-decoration: none;
+      padding-left: .5em;
+      vertical-align: middle;
 
       &:hover,
       &:active {
         color: $main-color;
-      }
-    }
-  }
-
-  .navigation {
-    font-family: $navigation-font;
-    font-size: $navigation-font-size;
-
-    ul {
-      list-style: none;
-      margin: $navigation-top-spacing 0 0;
-      padding: 0;
-
-      li + li {
-        border-left: 1px solid $light-gray;
-      }
-
-      li {
-        @include inline-block;
-        margin: 0;
-        padding: 0 ($navigation-link-spacing / 2 * 1em);
-
-        a {
-          color: $white;
-          text-decoration: none;
-
-          &:hover,
-          &:active {
-            color: $main-color;
-          }
-        }
       }
     }
   }
