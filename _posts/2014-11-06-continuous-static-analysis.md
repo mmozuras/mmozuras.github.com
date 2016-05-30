@@ -17,7 +17,7 @@ gem 'pronto-rubocop'
 gem 'pronto-flay'
 ```
 
-Next, generate a new GitHub access token. Go to your `Settings -> Applications -> Generate new token` or just follow [this link][token]. Pronto will only need repo/public_repo scopes to write comments, so you can uncheck everything else.
+Next, generate a new GitHub access token. Go to your `Settings -> Personal access tokens` or just follow [this link][token]. Pronto will only need repo/public_repo scopes to write comments, so you can uncheck everything else.
 
 We'll need to make this token availabe to Pronto via environment variable. Go to the settings of your Travis CI build and configure it there. Name it GITHUB_ACCESS_TOKEN and set the value to the previously generated token. You can read more about how to do that in the official docs [here](http://docs.travis-ci.com/user/environment-variables/#Using-Settings). Note a security limitation: it will only be available to builds started by repo owners.
 
