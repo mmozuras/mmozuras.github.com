@@ -51,20 +51,14 @@ h2 {
 }
 
 header {
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: cover;
+
   border-bottom: 1px solid $light-gray;
   margin: 0 auto $space-between-posts / 2 * 1em;
   padding: $header-spacing 0;
   text-align: center;
-  width: $content-width;
-
-  @media only screen and (min-width: 0px) and (max-width: 1200px) {
-    width: 90%;
-  }
-
-  @media only screen and (max-width: 1200px) {
-    margin-bottom: 0;
-    padding-bottom: 0;
-  }
 
   .title {
     font-family: $blog-title-font;
@@ -72,7 +66,7 @@ header {
     text-transform: $blog-title-text-transform;
 
     a {
-      color: $black;
+      color: $white;
       text-decoration: none;
 
       &:hover,
@@ -88,7 +82,7 @@ header {
 
     ul {
       list-style: none;
-      margin: $navigation-top-spacing 0 0 0;
+      margin: $navigation-top-spacing 0 0;
       padding: 0;
 
       li + li {
@@ -98,10 +92,10 @@ header {
       li {
         @include inline-block;
         margin: 0;
-        padding: 0 ($navigation-link-spacing/2 * 1em);
+        padding: 0 ($navigation-link-spacing / 2 * 1em);
 
         a {
-          color: $black;
+          color: $white;
           text-decoration: none;
 
           &:hover,
@@ -172,6 +166,12 @@ article {
   header {
     border: 0;
     padding: 0;
+    width: $content-width;
+
+    @media only screen and (max-width: 1200px) {
+      margin-bottom: 0;
+      padding-bottom: 0;
+    }
 
     h1 {
       font-size: $post-title-font-size;

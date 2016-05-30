@@ -1,5 +1,5 @@
-/* Colors */
-$main-color: red;
+// Colors
+$main-color: #f00;
 
 $white: #fff;
 $light-gray: #dfdfdf;
@@ -7,7 +7,7 @@ $light-light-gray: #f8f8f8;
 $gray: #b0b0b0;
 $black: #333;
 
-/* Typography */
+// Typography
 $body-font: 'Sorts Mill Goudy';
 $body-font-size: 1.2em;
 
@@ -46,7 +46,7 @@ $subheading-top-spacing: 2em;
 $subheadings-align: left;
 
 $code-font-family: 'Monaco', 'Courier', 'Courier New', monospace;
-$code-font-size: 0.75em;
+$code-font-size: .75em;
 $code-border-color: $gray;
 $code-background-color: $white;
 
@@ -54,32 +54,32 @@ $code-block-line-height: 1.8em;
 
 $blockquote-font-size: 1.1em;
 
-/* Layout */
+// Layout
 
-/* Width of the content area */
+// Width of the content area
 $content-width: 50%;
 
-/* Space above and below the header section */
-$header-spacing: 100px;
+// Space above and below the header section
+$header-spacing: 200px;
 
-/* Weight of the line at the top of the page */
+// Weight of the line at the top of the page
 $top-line-weight: 8px;
 
-/* Space between header links (this will be in ems) */
-$navigation-link-spacing: 0.8;
-$navigation-top-spacing: 0.4em;
+// Space between header links (this will be in ems)
+$navigation-link-spacing: .8;
+$navigation-top-spacing: .4em;
 
-/* Space between the date and the post */
+// Space between the date and the post
 $post-content-top-space: 3em;
 
-/* Space between the post and the author/tags */
+// Space between the post and the author/tags
 $post-content-bottom-space: 2em;
 
-/* Space between posts in ems */
+// Space between posts in ems
 $space-between-posts: 4;
 
-/* Author tags top and bottom spacing */
+// Author tags top and bottom spacing
 $tags-spacing: 1em;
 
-/* Space before and after a <hr> */
+// Space before and after a <hr>
 $hr-spacing: 4em;
