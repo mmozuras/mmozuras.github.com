@@ -4,7 +4,10 @@
   <body>
     <header>
       {% include navigation.html %}
-      <div class="background" style="background-image: url(/assets/images/background.jpg);"></div>
+
+      {% if page.background %}
+        <div class="background" style="background-image: url(/assets/images/{{ page.background }}.jpg);"></div>
+      {% endif %}
     </header>
 
     {{ content }}
