@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Joys of Programming
+redirect_from: 2012/04/20/joys-of-programming/
 hn: //news.ycombinator.com/item?id=3868298
 ---
 

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: git playback 0.2
+redirect_from: 2012/09/23/git-playback/
 hn: //news.ycombinator.com/item?id=4571253
 ---
 

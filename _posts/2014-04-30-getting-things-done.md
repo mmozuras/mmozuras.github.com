@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Getting Things Done
+redirect_from: 2014/04/30/getting-things-done/
 hn: https://news.ycombinator.com/item?id=7672656
 reddit: http://www.reddit.com/r/productivity/comments/24d7l3/how_ceo_of_vinted_gets_things_done/
 ---

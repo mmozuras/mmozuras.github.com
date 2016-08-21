@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Software Development is not Typing
+redirect_from: 2014/02/04/software-development-is-not-typing/
 hn: //news.ycombinator.com/item?id=7178164
 ---
 

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Office. Office never changes
+redirect_from: 2014/01/19/office-office-never-changes/
 hn: //news.ycombinator.com/item?id=7085356
 ---
 

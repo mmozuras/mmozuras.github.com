@@ -8,7 +8,7 @@ author:
   speakerdeck: mmozuras
   rss: //feeds.feedburner.com/CodingFearlessly
 
-permalink: pretty
+permalink: /:title
 exclude:
   - README.md
   - Rakefile
@@ -16,3 +16,4 @@ exclude:
 
 gems:
   - jekyll-sitemap
+  - jekyll-redirect-from

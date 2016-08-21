@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Top Ten Percent
+redirect_from: 2013/12/02/top-ten-percent/
 hn: //news.ycombinator.com/item?id=6838984
 ---
 

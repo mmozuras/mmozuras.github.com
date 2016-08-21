@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Continuous Static Analysis using Pronto
+redirect_from: 2014/11/06/continuous-static-analysis/
 hn: https://news.ycombinator.com/item?id=8568999
 reddit: http://www.reddit.com/r/programming/comments/2li1ss/continuous_static_analysis_using_pronto/
 ---
