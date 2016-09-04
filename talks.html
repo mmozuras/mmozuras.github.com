@@ -1,0 +1,19 @@
+---
+layout: default
+background: background
+---
+
+<div class="content">
+  <h1>Here's what happens when I speak in front of people:</h1>
+  {% for post in site.categories.talk %}
+    <article>
+      <a href="{{ post.url }}">
+        <span> {{ post.title }}</span>
+        <span style="float: right"> {{ post.date | date: "%Y" }}</span>
+      </a>
+    </article>
+  {% endfor %}
+  <article>
+    All of my slides can be found on <a href="//speakerdeck.com/{{ site.author.speakerdeck }}">Speakerdeck</a>.
+  </article>
+</div>
