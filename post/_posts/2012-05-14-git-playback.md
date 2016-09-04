@@ -1,5 +1,4 @@
 ---
-layout: post
 title: git playback
 redirect_from: 2012/05/14/git-playback/
 hn: //news.ycombinator.com/item?id=3972107

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Continuous Static Analysis using Pronto
 redirect_from: 2014/11/06/continuous-static-analysis/
 hn: https://news.ycombinator.com/item?id=8568999

@@ -21,3 +21,10 @@ gems:
   - jekyll-sitemap
   - jekyll-redirect-from
   - jekyll-feed
+
+defaults:
+  -
+    scope:
+      path: "post"
+    values:
+      layout: "post"

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Hello World
 redirect_from: 2012/04/16/hello-world/
 hn: //news.ycombinator.com/item?id=3848619

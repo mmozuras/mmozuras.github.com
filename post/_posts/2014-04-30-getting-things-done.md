@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Getting Things Done
 redirect_from: 2014/04/30/getting-things-done/
 hn: https://news.ycombinator.com/item?id=7672656

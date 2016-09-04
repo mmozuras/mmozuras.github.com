@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Equal Footing
 redirect_from: 2014/12/30/equal-footing/
 hn: https://news.ycombinator.com/item?id=8816225

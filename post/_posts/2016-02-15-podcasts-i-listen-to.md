@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Podcasts I Listen To
 redirect_from: 2016/02/15/podcasts-i-listen-to/
 reddit: https://www.reddit.com/r/podcasts/comments/461j6f/podcasts_i_listen_to/

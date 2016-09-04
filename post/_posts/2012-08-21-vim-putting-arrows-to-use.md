@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Vim - Putting arrows to use
 redirect_from: 2012/08/21/vim-putting-arrows-to-use/
 hn: //news.ycombinator.com/item?id=4414092
