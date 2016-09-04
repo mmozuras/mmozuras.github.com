@@ -4,7 +4,23 @@ background: background
 ---
 
 <div>
-  <h1>Here's what happens when I speak in front of people:</h1>
+  <h1>Where I'll give talks next?</h1>
+  <article class="talk">
+    <a href="http://www.continuouslifecycle.de/lecture.php?id=5404&c=0">
+      <span>Continuous Lifecycle - Mannheim, Germany</span>
+      <span class="year">2016-11-15</span>
+    </a>
+  </article>
+
+  <article class="talk">
+    <a href="http://topconf.com/linz-2017/speaker/mindaugas-mozūras/">
+      <span>Topconf - Linz, Austria</span>
+      <span class="year">2017-03-02</span>
+    </a>
+  </article>
+</div>
+<div>
+  <h1>What happened when I spoke in front of people?</h1>
   {% for post in site.categories.talk %}
     <article class="talk">
       <a href="{{ post.url }}">
@@ -13,7 +29,7 @@ background: background
       </a>
     </article>
   {% endfor %}
-  <article>
-    All of my slides can be found on <a href="//speakerdeck.com/{{ site.author.speakerdeck }}">Speakerdeck</a>.
-  </article>
+</div>
+<div>
+  <h1>All of my slides can be found on <a href="//speakerdeck.com/{{ site.author.speakerdeck }}">Speakerdeck</a>.</h1>
 </div>
