@@ -14,6 +14,10 @@ exclude:
   - Rakefile
   - sass
 
+feed:
+  path: atom.xml
+
 gems:
   - jekyll-sitemap
   - jekyll-redirect-from
+  - jekyll-feed
