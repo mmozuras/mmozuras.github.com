@@ -4,15 +4,12 @@ $main-color: #f00;
 $white: #fff;
 $light-gray: #dfdfdf;
 $gray: #b0b0b0;
-$black: #333;
-$transparent-black: rgba(0, 0, 0, .6);
+$transparent-black: rgba(0, 0, 0, .7);
 
 // Typography
-$body-font: 'Sorts Mill Goudy';
-$body-font-size: 1.2em;
+$body-font: 'Asap', sans-serif;
 
-$blog-title-font: 'nevis';
-$blog-title-font-size: .85em;
+$blog-title-font-size: .9em;
 $blog-title-text-transform: uppercase;
 
 $post-font-size: 1.2em;
@@ -20,7 +17,7 @@ $post-font-line-height: 1.7em;
 $post-align: justify;
 
 $post-title-font-size: 1.6em;
-$post-title-font-weight: normal;
+$post-title-font-weight: bold;
 $post-title-font-style: normal;
 $post-title-line-height: 1.3em;
 $post-title-align: center;
@@ -29,7 +26,7 @@ $date-font-size: 1em;
 $date-font-style: normal;
 
 $heading-font-size: 1.4em;
-$heading-font-weight: normal;
+$heading-font-weight: bold;
 $heading-font-style: normal;
 $heading-top-spacing: 2em;
 
