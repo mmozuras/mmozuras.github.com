@@ -4,7 +4,7 @@ redirect_from: 2016/02/15/podcasts-i-listen-to/
 reddit: https://www.reddit.com/r/podcasts/comments/461j6f/podcasts_i_listen_to/
 ---
 
-I've started listening to podcasts sometime in 2007, almost 9 years ago. [DotNetRocks](//dotnetrocks.com/) was my first show. Can't remember whichever episode was the first one, but I distinctly remember listening to Billy Hollis talk about Complexity ([show #214, 2007-02-13](//dotnetrocks.com/?show=214)) and trying really really hard to keep up. Stopping and rewinding was not unusual.
+I've started listening to podcasts sometime in 2007, almost 9 years ago. [DotNetRocks](//dotnetrocks.com/) was my first show. Can't remember which episode was the first one, but I distinctly remember listening to Billy Hollis talk about Complexity ([show #214, 2007-02-13](//dotnetrocks.com/?show=214)) and trying really really hard to keep up. Stopping and rewinding was not unusual.
 
 Just like [@ailon](//twitter.com/ailon), whose [post](//medium.com/@ailon/podcasts-i-listen-to-2016-edition-8c50ec7e7831) inspired to write this one, I've been listening ever since. I spend a lot of time with podcasts - I listen when I walk, prepare and eat breakfast, in the shower, do chores and run. After DotNetRocks, my next two podcasts were [Hanselminutes](//hanselminutes.com/) and [Mondays](//mondays.pwop.com/). As I moved on from Microsoft ecosystem (and Mondays is no longer active), none of them are among my current subscriptions.
 
@@ -22,7 +22,7 @@ I listen to all episodes of the podcasts here. Mostly because they are amazing.
 
 * [The Ruby Rogues](//devchat.tv/ruby-rogues/) is _the_ podcast for Rubyists. And I do still write Ruby.
 
-* [Dan Carlin's Hardcode History](//dancarlin.com/hardcore-history-series/) can require a ton of patience. Something like four episodes per year is not much. But each is 3-4 hours long, masterfully narrated and leaves wanting more at the end.
+* [Dan Carlin's Hardcore History](//dancarlin.com/hardcore-history-series/) can require a ton of patience. Something like four episodes per year is not much. But each is 3-4 hours long, masterfully narrated and leaves wanting more at the end.
 
 * [Common Sense with Dan Carlin](//dancarlin.com/common-sense-home-landing-page/) offers a unique perspective on social and political topics in captivating style.
 
