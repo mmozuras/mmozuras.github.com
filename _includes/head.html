@@ -2,14 +2,27 @@
   <link href="https://fonts.googleapis.com/css?family=Asap:400,400i&subset=latin-ext" rel="stylesheet">
   <meta charset="utf-8">
   <meta http-equiv="content-type" content="text/html;charset=utf-8" />
-  <meta name="description" content="{{ site.description }}" >
-  <meta name="author" content="{{ site.author.name }}" >
-  <meta name="twitter:site" content="@{{ site.author.twitter }}" >
   <meta content="IE=edge,chrome=1" http-equiv="X-UA-Compatible" >
   <meta content="width=device-width,initial-scale=1" name="viewport">
   <meta name="google-site-verification" content="25HZCMZ1yt0Mwusf0ABR7Q8a6OyLP_OcSFLFo8XuFUg" />
 
-  <title>{% if page.title %}{{ page.title }} &mdash; {% endif %}{{ site.title }}</title>
+  <title>{{ page.title }}</title>
+  <meta name="author" content="{{ site.author.name }}" >
+
+  {% if page.description %}
+    <meta name="description" content="{{ page.description}}" />
+  {% else %}
+    <meta name="description" content="{{ site.description }}" />
+  {% endif %}
+
+  <meta name="twitter:site" content="@{{ site.author.twitter }}" >
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="{{ page.title }}">
+  <meta name="twitter:description" content="{{ site.description }}">
+
+  <meta property="og:type" content="article" />
+  <meta property="og:title" content="{{ page.title }}" />
+  <meta property="og:description" content="{{ site.description }}" />
 
   <link href="/assets/css/default.css" rel="stylesheet">
   <link rel="alternate" type="application/rss+xml" href="{{ site.author.rss }}">
