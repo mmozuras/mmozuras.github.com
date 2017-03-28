@@ -28,3 +28,5 @@ Reviewing a bunch of solutions by other people could also work for discovery. Th
 The good thing is that [Katrina Owen](//twitter.com/kytrinyx), the creator of Exercism and just an amazing human being, [is aware of the website not being delightful](//github.com/exercism/discussions/issues/113). It gives me hope that this great learning tool will become even better.
 
 Even with the website not being perfect, I would strongly recommend giving [Exercism](http://exercism.io) a spin to anyone learning a new programming language. It works for me.
+
+_UPDATE: Katrina pointed me to [this incredible treasure trove of an issue](https://github.com/exercism/discussions/issues/123) about gamification. Contains actual research  into intrinsic/extrinsic motivation and rewards._
