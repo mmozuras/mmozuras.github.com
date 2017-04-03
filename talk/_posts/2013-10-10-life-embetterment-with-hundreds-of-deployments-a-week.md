@@ -11,6 +11,5 @@ Continuous Deployment and how Vinted journeyed to it. Me and Tomas Varaneckas pr
 
 ## Videos
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8AGaCJfHDx8" frameborder="0" allowfullscreen></iframe>
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xSs2SFVKYLE" frameborder="0" allowfullscreen></iframe>
+{% include youtube_embed.html id="8AGaCJfHDx8" %}
+{% include youtube_embed.html id="xSs2SFVKYLE" %}

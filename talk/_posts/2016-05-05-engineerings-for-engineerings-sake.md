@@ -11,4 +11,4 @@ Code is a not an asset. Technology is not the solution to your problems. And eng
 
 ## Video
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/J5U6LxnjYy4" frameborder="0" allowfullscreen></iframe>
+{% include youtube_embed.html id="J5U6LxnjYy4" %}

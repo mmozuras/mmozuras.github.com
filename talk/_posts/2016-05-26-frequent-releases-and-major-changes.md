@@ -11,4 +11,4 @@ While offering a lot of advantages, continuous deployment also introduces its ow
 
 ## Video
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xhNSVEcS-T0" frameborder="0" allowfullscreen></iframe>
+{% include youtube_embed.html id="xhNSVEcS-T0" %}
