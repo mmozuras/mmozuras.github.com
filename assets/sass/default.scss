@@ -207,11 +207,28 @@ pre {
 code {
   font-family: $code-font-family;
   font-size: $code-font-size;
-
 }
 
 p > code {
   background-color: $code-background-color;
   border: 1px solid $light-gray;
   white-space: nowrap;
+}
+
+.youtube {
+  height: 0;
+  overflow: hidden;
+  padding-bottom: 56.25%;
+  padding-top: 30px;
+  position: relative;
+
+  iframe,
+  object,
+  embed {
+    height: 100%;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 100%;
+  }
 }
