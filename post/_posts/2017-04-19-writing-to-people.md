@@ -29,6 +29,6 @@ My colleague introduced a potential problem and a way that the problem will be s
 
 Email conversations usually happen with people I don't converse with daily or even weekly. Through [Crucial Conversations](//www.goodreads.com/book/show/15014.Crucial_Conversations), I learned to establish mutual purpose. To make sure that others understand that I'm working towards a common outcome, care about their goals and values.
 
-I've also noticed that my most direct and terse emails were addressed to leaders senior to me. I did it without thinking. Upon reflection, I probably thought that they can take it. I expected them to be better than me. I was wrong. They are people too.
+I've also noticed that my most direct and terse emails were addressed to leaders senior to me. I did it without thinking. Upon reflection, I probably thought that they can take it. I expected them to be better than me. I expected them to see through my terseness. I was wrong. They are people too.
 
 I try not to forget that. When I write to someone, it's not an inbox at the other end. There's a person. I still write everything that I want to write. I am as critical and as open as ever. The difference is in how I write it. My suggestions sound like suggestions, I convey my positive emotions better and I establish mutual purpose.
