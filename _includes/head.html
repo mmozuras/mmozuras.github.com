@@ -6,23 +6,27 @@
   <meta content="width=device-width,initial-scale=1" name="viewport">
   <meta name="google-site-verification" content="25HZCMZ1yt0Mwusf0ABR7Q8a6OyLP_OcSFLFo8XuFUg" />
 
-  <title>{{ page.title }}</title>
+  <title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
   <meta name="author" content="{{ site.author.name }}" >
 
-  {% if page.description %}
-    <meta name="description" content="{{ page.description}}" />
-  {% else %}
-    <meta name="description" content="{{ site.description }}" />
-  {% endif %}
+  <meta name="description" content="{% if page.excerpt %}{{ page.excerpt | markdownify | strip_html | strip_newlines | truncate: 160 | escape_once }}{% else %}{{ site.description }}{% endif %}">
 
-  <meta name="twitter:site" content="@{{ site.author.twitter }}" >
   <meta name="twitter:card" content="summary_large_image">
-  <meta name="twitter:title" content="{{ page.title }}">
-  <meta name="twitter:description" content="{{ site.description }}">
+  <meta name="twitter:site" content="@{{ site.author.twitter }}">
+  {% if page.title %}
+    <meta name="twitter:creator" content="@{{ site.author.twitter }}">
+  {% endif %}
+  <meta name="twitter:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}">
+  <meta name="twitter:description" content="{% if page.excerpt %}{{ page.excerpt | markdownify | strip_html | strip_newlines | truncate: 160 | escape_once }}{% else %}{{ site.description }}{% endif %}">
+  <meta property="twitter:image" content="{% if page.background %}{{ site.url }}/assets/images/{{ page.background }}.jpg{% endif %}">
+  <meta name="twitter:url" content="{{ page.url | prepend: site.url }}">
 
-  <meta property="og:type" content="article" />
-  <meta property="og:title" content="{{ page.title }}" />
-  <meta property="og:description" content="{{ site.description }}" />
+  <meta property="og:type" content="{% if page.title %}article{% else %}website{% endif %}">
+  <meta property="og:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}">
+  <meta property="og:description" content="{% if page.excerpt %}{{ page.excerpt | markdownify | strip_html | strip_newlines | truncate: 160 | escape_once }}{% else %}{{ site.description }}{% endif %}">
+  <meta property="og:image" content="{% if page.background %}{{ site.url }}/assets/images/{{ page.background }}.jpg{% endif %}">
+  <meta property="og:site_name" content="{{ site.title }}">
+  <meta property="og:locale" content="{{ site.locale }}">
 
   <link href="/assets/css/default.css" rel="stylesheet">
   <link rel="alternate" type="application/rss+xml" href="{{ site.author.rss }}">
