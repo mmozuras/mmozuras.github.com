@@ -18,7 +18,7 @@
   {% endif %}
   <meta name="twitter:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}">
   <meta name="twitter:description" content="{% if page.excerpt %}{{ page.excerpt | markdownify | strip_html | strip_newlines | truncate: 160 | escape_once }}{% else %}{{ site.description }}{% endif %}">
-  <meta property="twitter:image" content="{% if page.background %}{{ site.url }}/assets/images/{{ page.background }}.jpg{% endif %}">
+  <meta name="twitter:image" content="{% if page.background %}{{ site.url }}/assets/images/{{ page.background }}.jpg{% endif %}">
   <meta name="twitter:url" content="{{ page.url | prepend: site.url }}">
 
   <meta property="og:type" content="{% if page.title %}article{% else %}website{% endif %}">
