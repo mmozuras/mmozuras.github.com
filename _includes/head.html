@@ -6,25 +6,43 @@
   <meta content="width=device-width,initial-scale=1" name="viewport">
   <meta name="google-site-verification" content="25HZCMZ1yt0Mwusf0ABR7Q8a6OyLP_OcSFLFo8XuFUg" />
 
-  <title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
-  <meta name="author" content="{{ site.author.name }}" >
+  {% if page.title %}
+    {% assign title = page.title %}
+  {% else %}
+    {% assign title = site.title %}
+  {% endif %}
 
-  <meta name="description" content="{% if page.excerpt %}{{ page.excerpt | markdownify | strip_html | strip_newlines | truncate: 160 | escape_once }}{% else %}{{ site.description }}{% endif %}">
+  {% if page.excerpt %}
+    {% assign description = page.excerpt | markdownify | strip_html | strip_newlines | truncate: 160 | escape_once %}
+  {% else %}
+    {% assign description = site.description %}
+  {% endif %}
+
+  {% if page.background %}
+    {% assign background = page.background %}
+  {% else %}
+    {% assign background = 'background' %}
+  {% endif %}
+  {% capture image %}{{ site.url }}/assets/images/{{ background }}.jpg{% endcapture %}
+
+  <title>{{ title }}</title>
+  <meta name="author" content="{{ site.author.name }}" >
+  <meta name="description" content="{{ description }}">
 
   <meta name="twitter:card" content="summary_large_image">
   <meta name="twitter:site" content="@{{ site.author.twitter }}">
   {% if page.title %}
     <meta name="twitter:creator" content="@{{ site.author.twitter }}">
   {% endif %}
-  <meta name="twitter:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}">
-  <meta name="twitter:description" content="{% if page.excerpt %}{{ page.excerpt | markdownify | strip_html | strip_newlines | truncate: 160 | escape_once }}{% else %}{{ site.description }}{% endif %}">
-  <meta name="twitter:image" content="{% if page.background %}{{ site.url }}/assets/images/{{ page.background }}.jpg{% endif %}">
+  <meta name="twitter:title" content="{{ title }}">
+  <meta name="twitter:description" content="{{ description }}">
+  <meta name="twitter:image" content="{{ image }}">
   <meta name="twitter:url" content="{{ page.url | prepend: site.url }}">
 
   <meta property="og:type" content="{% if page.title %}article{% else %}website{% endif %}">
-  <meta property="og:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}">
-  <meta property="og:description" content="{% if page.excerpt %}{{ page.excerpt | markdownify | strip_html | strip_newlines | truncate: 160 | escape_once }}{% else %}{{ site.description }}{% endif %}">
-  <meta property="og:image" content="{% if page.background %}{{ site.url }}/assets/images/{{ page.background }}.jpg{% endif %}">
+  <meta property="og:title" content="{{ title }}">
+  <meta property="og:description" content="{{ description }}">
+  <meta property="og:image" content="{{ image }}">
   <meta property="og:site_name" content="{{ site.title }}">
   <meta property="og:locale" content="{{ site.locale }}">
 
