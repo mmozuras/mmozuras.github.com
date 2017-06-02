@@ -4,6 +4,16 @@ background: background
 ---
 
 <div>
+  <h1>Where will I speak next?</h1>
+  <article class="talk">
+    <a href="https://conferences.oreilly.com/velocity/vl-eu/public/schedule/detail/61871">
+      <span>Velocity - London, United Kingdom</span>
+      <span class="year">2017-10-19</span>
+    </a>
+  </article>
+</div>
+
+<div>
   <h1>What have I spoken about before?</h1>
   {% for post in site.categories.talk %}
     <article class="talk">
@@ -14,6 +24,7 @@ background: background
     </article>
   {% endfor %}
 </div>
+
 <div>
   <h1>All of my slides can be found on <a href="//speakerdeck.com/{{ site.author.speakerdeck }}">Speakerdeck</a>.</h1>
 </div>
