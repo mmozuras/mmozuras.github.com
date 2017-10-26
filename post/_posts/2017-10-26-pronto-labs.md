@@ -24,4 +24,4 @@ I've selected three members of Pronto community to join the organization. [@aerg
 
 Over the last five months, I've seen the effect this change had on Pronto. I was struggling with some personal stuff and couldn't find the time to give my time to Pronto. I was delighted to see that issues and pull requests continued to get reviewed and answered. I'm happy to have made this decision and how it turned out.
 
-Not trying to do everything myself is a something I continue to learn. If you have a project you're struggling to maintain, look for ways to empower people to do more.
+Not trying to do everything myself is something I continue to learn. If you have a project you're struggling to maintain, look for ways to empower people to do more.
