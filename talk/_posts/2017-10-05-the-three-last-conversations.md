@@ -5,7 +5,7 @@ permalink: talk/the-three-last-conversations
 
 This talk is about mistakes, diving saves, honesty and delivering bad news. But most importantly, it's about effort and result. It answers which of them is more valuable to me and why.
 
-Presented at Agile Tour Kaunas.
+Presented at Agile Tour Kaunas, Velocity London and Build Stuff Vilnius.
 
 ## Slides
 
