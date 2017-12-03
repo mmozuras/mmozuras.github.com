@@ -19,7 +19,7 @@ exclude:
 feed:
   path: atom.xml
 
-gems:
+plugins:
   - jekyll-sitemap
   - jekyll-redirect-from
   - jekyll-feed
