@@ -12,7 +12,7 @@ I've started watching the show and found my friend's recommendation to be accura
 > **Applicant**: That's actually an old resume. It should also read that I crushed it from 2013 to present.<br>
 > -- [Silicon Valley Season 2: Episode #4 Clip](https://www.youtube.com/watch?v=E3kP2A80KIw).
 
-I feel that today, "Silicon Valley" is less and less of a parody.
+I feel that today, "Silicon Valley" is less and less of a parody. Crazier things happening in real life than in the show.
 
 There's another TV show I love from my childhood. Dragonball Z. I loved this anime series. I still watch [TeamFourStar's](http://teamfourstar.com) parody series "Dragonball Z Abridged."
 
