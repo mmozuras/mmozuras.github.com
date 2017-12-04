@@ -36,6 +36,6 @@ Purpose, as motivation, seems almost forgotten. Those billboards are a great exa
 
 And if it's not cool projects, it's money. The weirdest conversation I've overheard this year featured a person debating whether opening a restaurant or "some sort of Bitcoin business" is a better way to get rich.
 
-Super Saiyan billboards and Bitcoin businesses. What a world we live in. Good thing that's not all. I'm happy to work for a company that has a mission I believe in. I'm glad there are significant advancements happening with artificial intelligence, augmented reality, virtual reality, clean tech and even space travel.
+Super Saiyan billboards and Bitcoin businesses. What a world we live in. Good thing that's not all. I'm happy to work for [a company](http://engineering.vinted.com) that has a mission I believe in. I'm glad there are significant advancements happening with artificial intelligence, augmented reality, virtual reality, clean tech and even space travel.
 
 We, the technology industry, are more than cool projects and speculative markets. Working at SpaceX is not a prerequisite to improving the world either. But if we'll set our sights barely on going Super Sayan and cool projects, that's all that we'll get. Let's aim higher.
