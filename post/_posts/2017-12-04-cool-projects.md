@@ -14,11 +14,11 @@ I've started watching the show and found my friend's recommendation to be accura
 
 I feel that today, "Silicon Valley" is less and less of a parody. Crazier things happening in real life than in the show.
 
-There's another TV show I love from my childhood. Dragonball Z. I loved this anime series. I still watch [TeamFourStar's](http://teamfourstar.com) parody series "Dragonball Z Abridged."
+There's another TV show I love from my childhood. Dragon Ball Z. I loved this anime series. I still watch [TeamFourStar's](http://teamfourstar.com) parody series "Dragon Ball Z Abridged."
 
-I never imagined that Dragonball would be used to recruit developers.
+I never imagined that Dragon Ball would be used to recruit developers.
 
-A couple of weeks ago, peculiar billboards started appearing across Vilnius. They often seem to appear close to offices of tech companies. Odd. Those advertisements feature a young male going [Super Saiyan](https://www.youtube.com/watch?v=2cjbSgy3vSw), gadgets flying around him and an invitation to work on cool projects and "Level Up." For the uninitiated, Super Saiyan is a transformation in Dragonball Z that makes characters stronger.
+A couple of weeks ago, peculiar billboards started appearing across Vilnius. They often seem to appear close to offices of tech companies. Odd. Those advertisements feature a young male going [Super Saiyan](https://www.youtube.com/watch?v=2cjbSgy3vSw), gadgets flying around him and an invitation to work on cool projects and "Level Up." For the uninitiated, Super Saiyan is a transformation in Dragon Ball Z that makes characters stronger.
 
 I can only wonder what Akira Toriyama and Toei Animation would think about the likeness of their characters used to recruit. It might fall under "Fair Use." I don't find it tasteful either way.
 
