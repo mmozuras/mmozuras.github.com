@@ -2,6 +2,8 @@
 layout: post
 title: Cool Projects
 background: silicon_valley
+reddit: https://www.reddit.com/r/programming/comments/7hgs3x/cool_projects_dragonball_z_billboards_why_silicon/
+hn: https://news.ycombinator.com/item?id=15842553
 ---
 
 A year and a half ago, my friend recommended me to watch the TV show "Silicon Valley." I was aware of the show's existence but had not found the time to check it out. My friend pitched the show as funny, parodying tech industry and having the main character looking and having mannerisms similar to mine. I accepted two of those three statements.
