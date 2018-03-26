@@ -4,9 +4,9 @@ title: Third Try's the Charm
 background: three
 ---
 
-I've focused on hiring great people the last couple of months. Vinted, the company I work for, had a fantastic 2017, so now [it's time to scale our team a bit](https://verslas.lrytas.lt/sekmes-istorijos/2018/03/12/news/nurunges-konkurentus-prancuzijoje-ir-vokietijoje-vinted-planuoja-pletra-5112453/). Hiring well is the most important thing a company can do. Hiring includes rejections. On both sides. Potential candidates reject Vinted. We reject potential candidates. We receive a bunch of applications from motivated people, who'd love to work at Vinted. It's not easy to say "no" to them.
+I've been focused on hiring great people the last couple of months. Vinted, the company I work for, had a fantastic 2017, so now [it's time to scale our team a bit](https://verslas.lrytas.lt/sekmes-istorijos/2018/03/12/news/nurunges-konkurentus-prancuzijoje-ir-vokietijoje-vinted-planuoja-pletra-5112453/). Hiring well is the most important thing a company can do. Hiring includes rejections. On both sides. Potential candidates reject Vinted. We reject potential candidates. We receive a bunch of applications from motivated people, who'd love to work at Vinted. It's not easy to say "no" to them.
 
-I was reminded of my own story. Before Vinted, I worked at Adform. It took me three tries to get hired there.
+I was reminded of my own story. Before Vinted, I worked at Adform as a software developer. It took me three tries to get hired there.
 
 The first thing you have to know - I'm an [introvert](https://en.wikipedia.org/wiki/Extraversion_and_introversion#Introversion). I enjoy both, but prefer solitary to social activities, as the latter ones tend to dwindle my energy. Software development tends to attract introverted people, and I'm one of them.
 
