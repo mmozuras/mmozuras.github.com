@@ -30,7 +30,7 @@ Some days later I received an email informing that they won't proceed with me fu
 
 Time went on. Nine months later, in summer of 2010, Adform had job openings again. Stubbornly I've submitted my CV again.
 
-This time I've got a chance to get interviewed by their senior tech manager. I distinctly remember two parts of this interview.
+This time I got one step closer. I was interviewed by their senior tech manager. I distinctly remember two parts of this interview.
 
 I remember being asked what sort of books I was reading. I gave a huge list of titles, most of them from "must read" lists for software developers. It included Code Complete, The Pragmatic Programmer, The Mythical Man-Month, Peopleware - all of them I've read mostly during university lectures. I timidly highlighted my dissatisfaction with the university. That book list also included [Lean Software Development: An Agile Toolkit](https://www.goodreads.com/book/show/194338.Lean_Software_Development).
 
@@ -48,7 +48,7 @@ Sergejus Barinovas was the founder of this user group. He gave presentations him
 
 At that time, Sergejus had recently joined Adform himself. Seeing something in my presentation or from talking to me, he recommended me. A couple of months later, in February of 2011, I was invited to an interview.
 
-I was not aware of this recommendation. Instead, I decided that my previous interviews were not as terrible as I thought.
+I was not aware of his recommendation. Instead, I decided that my previous interviews were not as terrible as I thought.
 
 I was interviewed by HR again. Not someone I've encountered during previous interviews. At some point during it, I've pointed out that I've engaged with Adform two times already. Surprise. She was not aware of it. That's when I learned how I got this interview.
 
@@ -69,5 +69,7 @@ I've joined Adform.
 I've proceeded to work 1.5 years at Adform. I've learned a lot and was very happy with the choice. I thought that I'd spend more time there, but I couldn't resist joining Vinted. Funnily enough, I've spent less time at Adform than how long it took for me to join.
 
 I remember this long and winding road. I remember my social awkwardness. When I interview software developers, social skills is something I note, but not something I judge. I also understand that being interviewed by Head of Engineering can seem scary, no matter my attempts at putting people at ease. A lot of software developers, which I note to be shy and introverted, manage to become quite talkative during tech interviews when given the opportunity to shine.
+
+I also tend to care most about what the person actually did. I try to glean details on what a person accomplished and how they contributed. And if they're quite junior, I care a lot about how they learn and how much effort they put into learning.
 
 While software development is indeed a team sport, you can get a lot done without knowing how to have a human conversation about the weather.
