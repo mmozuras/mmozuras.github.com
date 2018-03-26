@@ -60,7 +60,7 @@ I was invited to another interview. The senior manager from my second attempt wa
 
 I got an offer. I declined it. It was a lower salary than I wanted. Significantly lower than I was earning. I felt lowballed and angry. I thought that I did very well during the technical interview and couldn't understand why I was assessed this way.
 
-Next day I've got another offer with a long list of reasons on why it would be the right career decision. Salary was still now what I wanted, but high enough for me to choose growth over money.
+Next day I've got another offer with a long list of reasons on why it would be the right career decision. Salary was still not what I wanted, but high enough for me to choose growth over money.
 
 I've joined Adform.
 
