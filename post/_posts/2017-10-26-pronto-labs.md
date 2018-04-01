@@ -2,11 +2,14 @@
 layout: post
 title: Pronto Labs
 background: lab
+excerpt_separator: <!--more-->
 ---
 
 More than four years ago I wrote Pronto. [The initial commit](https://github.com/prontolabs/pronto/commit/2c763a586822064ad06c4292394cb06db49bf050) is dated 2013-07-02. The first version released 2013-08-15.
 
 I wanted to solve my problem. I wanted to stop writing comments like "This line is too long!" on GitHub pull requests. I imagined three runners that would integrate [Rubocop](https://github.com/bbatsov/rubocop), [Flay](https://github.com/seattlerb/flay) and [Brakeman](https://github.com/presidentbeef/brakeman) to help automate work that I did manually before.
+
+<!--more-->
 
 Pronto solved that problem. And more. Today, Pronto supports GitHub, Bitbucket, Gitlab. It has more than 35 runners, instead of just 3 I imagined at the start. More than 50 people have contributed to making it so.
 

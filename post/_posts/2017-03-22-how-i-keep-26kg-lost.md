@@ -1,9 +1,13 @@
 ---
 layout: post
 title: How I Keep 26kg Lost
+excerpt_separator: <!--more-->
 ---
 
 Last week [this post](https://medium.com/@justinangel/how-i-lost-100lbs-in-6-months-5da2dac582b5) hit Hacker News frontpage. It's about how Justin Angel lost 100lbs (~45kg) in 6 months. The story is quite interesting, though a little extreme.
+
+<!--more-->
+
  > My ex-wife cheated on me stating that she found me unattractive, that she never loved me and that she was leaving and taking the dog with her.
 
 Nothing like the loss of a dog to provide motivation for extreme action. See also Wick, John.
