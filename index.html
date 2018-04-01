@@ -16,7 +16,7 @@ background: background
         </h1>
       </header>
 
-      <p>{{ post.content | strip_html | truncatewords: 40  }}
+      <p>{{ post.excerpt }}
         {% unless post.external-url %}
           <a href="{{ post.url }}">full post &rarr;</a>
         {% endunless %}
