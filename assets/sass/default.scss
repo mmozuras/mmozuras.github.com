@@ -113,9 +113,29 @@ a {
   }
 }
 
+.external {
+  text-decoration: underline;
+}
+
 blockquote {
+  background: $light-gray;
+  border-left: 10px solid $gray;
   font-size: $blockquote-font-size;
   font-style: italic;
+  margin: 1.5em 0;
+  padding: .5em 10px;
+
+  ::before {
+    color: $gray;
+    font-size: 4em;
+    line-height: .1em;
+    margin-right: .25em;
+    vertical-align: -.4em;
+  }
+
+  p {
+    display: inline;
+  }
 }
 
 article {
@@ -181,10 +201,6 @@ article {
     height: 1px;
     margin: $hr-spacing !important;
   }
-}
-
-article.external {
-  text-decoration: underline;
 }
 
 article.talk {
