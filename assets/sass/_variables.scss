@@ -1,38 +1,36 @@
 // Colors
-$main-color: #f00;
+$main-color: #00affa;
 
 $white: #fff;
 $light-gray: #dfdfdf;
 $gray: #b0b0b0;
-$transparent-black: rgba(0, 0, 0, .7);
+$transparent-black: rgba(0, 0, 0, .8);
 
 // Typography
-$body-font: 'Asap', sans-serif;
+$body-font: 'Vollkorn', 'Times New Roman', 'Times', serif;
+
+$title-font: 'Raleway', sans-serif;
+$title-text-transform: uppercase;
+$title-font-weight: 800;
 
 $blog-title-font-size: .95em;
-$blog-title-text-transform: uppercase;
 
-$post-font-size: 1.2em;
-$post-font-line-height: 1.7em;
+$post-font-size: 1.3em;
+$post-font-line-height: 1.65em;
 
-$post-title-font-size: 1.6em;
-$post-title-font-weight: bold;
-$post-title-font-style: normal;
 $post-title-line-height: 1.3em;
 $post-title-align: center;
 
 $date-font-size: 1em;
 $date-font-style: normal;
 
-$heading-font-size: 1.4em;
-$heading-font-weight: bold;
+$heading-font-size: 1.7em;
 $heading-font-style: normal;
-$heading-top-spacing: 2em;
+$heading-top-spacing: 1.5em;
 
 $subheading-font-size: 1.1em;
-$subheading-font-weight: bold;
 $subheading-font-style: normal;
-$subheading-top-spacing: 2em;
+$subheading-top-spacing: 1.5em;
 
 $subheadings-align: left;
 

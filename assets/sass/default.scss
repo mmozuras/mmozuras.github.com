@@ -31,7 +31,6 @@ em {
 h1 {
   font-size: $heading-font-size;
   font-style: $heading-font-style;
-  font-weight: $heading-font-weight;
   margin-top: $heading-top-spacing;
   text-align: $post-title-align;
 }
@@ -39,15 +38,17 @@ h1 {
 h2 {
   font-size: $subheading-font-size;
   font-style: $subheading-font-style;
-  font-weight: $subheading-font-weight;
   margin-top: $subheading-top-spacing;
 }
 
 header {
   border-bottom: 1px solid $light-gray;
+  font-family: $title-font;
+  font-weight: $title-font-weight;
   margin: 0 auto $space-between-posts / 2 * 1em;
 
   .container {
+    line-height: 1.5em;
     margin: 0 auto;
     max-width: 60rem;
 
@@ -73,7 +74,7 @@ header {
     font-size: $blog-title-font-size;
     padding: .2em 0;
     position: absolute;
-    text-transform: $blog-title-text-transform;
+    text-transform: $title-text-transform;
     width: 100%;
 
     nav {
@@ -139,7 +140,10 @@ article {
   h1,
   h2,
   h3 {
+    font-family: $title-font;
+    font-weight: $title-font-weight;
     text-align: $subheadings-align;
+    text-transform: $title-text-transform;
 
     a {
       color: $transparent-black;
@@ -160,9 +164,6 @@ article {
     }
 
     h1 {
-      font-size: $post-title-font-size;
-      font-style: $post-title-font-style;
-      font-weight: $post-title-font-weight;
       line-height: $post-title-line-height;
       text-align: $post-title-align;
     }
