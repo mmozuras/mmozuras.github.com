@@ -2,11 +2,14 @@
 layout: post
 title: A User Guide to Me
 background: vinted
+excerpt_separator: <!--more-->
 ---
 
 _Inspired by [this article published by Inc. in 2014](https://www.inc.com/the-build-network/to-make-your-management-style-clear-create-a-users-manual.html) and [How to Rands](http://randsinrepose.com/archives/how-to-rands/)._
 
 Hey, I'm Mindaugas Mozūras, and I lead Engineering at Vinted. Welcome to my user guide to working with me. The faster we get to know each other and how we work, the stronger our relationship will be, and the more we’ll accomplish together.
+
+<!--more-->
 
 ## Average Week
 
