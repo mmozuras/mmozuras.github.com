@@ -15,7 +15,7 @@ The image for this post you can see above is from the game. It's an image featur
 
 As you can see from the Gifts Ungiven example, _Magic_ is an imperfect information game. Players don't know what cards are in each other's decks. That's entirely different from [perfect information](https://en.wikipedia.org/wiki/Perfect_information) games. In games like tic-tac-toe, checkers, chess both players see all the pieces participating in the game at all times.
 
-Imperfect information introduces uncertainty. Decisions need to be made based on the information available and trying to guess/estimate what the opponent might do next. I could think to have the perfect plan, only to promptly thwarted by my opponent.
+Imperfect information introduces uncertainty. Decisions need to be made based on the information available and trying to guess/estimate what the opponent might do next. I could think to have the perfect plan, only to promptly be thwarted by my opponent.
 
 When I started playing _Magic_, I used to get frustrated. Despite playing to the best of my ability, I would still lose. I would explain it to myself by thinking "I just got unlucky." Naturally, when I would win, it would be because of my skill, no luck involved. Or so I would think.
 
