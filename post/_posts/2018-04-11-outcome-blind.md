@@ -19,7 +19,7 @@ Imperfect information introduces uncertainty. Decisions need to be made based on
 
 When I started playing _Magic_, I used to get frustrated. Despite playing to the best of my ability, I would still lose. I would explain it to myself by thinking "I just got unlucky." Naturally, when I would win, it would be because of my skill, no luck involved. Or so I would think.
 
-I was used to playing chess - a game with perfect information - where the outcome was entirely under my control. I didn't have the skills and mental models for imperfect information games. I've received help in the form of an article from Chad Ellis called "Myth of the Single Correct Play." I've learned the concept of imperfect information and all the goes with it.
+I was used to playing chess - a game with perfect information - where the outcome was entirely under my control. I didn't have the skills and mental models for imperfect information games. I've received help in the form of an article from Chad Ellis called "Myth of the Single Correct Play." I've learned the concept of imperfect information and all that goes with it.
 
 The fact is that all _Magic_ games involve imperfect information and a bit of luck. The best I could do is to maximize my chances. I learned that I will always have imperfect information and outcome will not be entirely under my control. But I will always control how I make decisions.
 
