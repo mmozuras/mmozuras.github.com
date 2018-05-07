@@ -43,7 +43,7 @@ I reread the text. I fill in logical holes. I move sentences around to make the 
 
 I go to [Unsplash](https://unsplash.com) and find a beautiful header image for my blog post.
 
-I share the blog post with my girlfriend to get feedback. I reread the blog post myself after stepping away from it for a couple of hours.
+I share the blog post with my significant other to get feedback. I reread the blog post myself after stepping away from it for a couple of hours.
 
 If there are no significant changes I want to make, I share the blog post with the world on various social networks. And I mean "significant" because I'm never 100% happy with the text.
 
