@@ -1,6 +1,7 @@
 ---
 layout: post
 title: 'Vilnius Tech Leads: Year One'
+background: compass
 excerpt_separator: <!--more-->
 ---
 
@@ -52,7 +53,7 @@ Speakers, who graciously accept speaking. They spend their time preparing talks 
 
 Everyone in the community. Vilnius Tech Leads [is not a place](http://marvel.com/universe/Asgard), it's a people.
 
-And last, but not least - meetup.com platform. It makes the whole experience of organizing a meetup much much easier.
+And last, but not least - [meetup.com](https://www.meetup.com) platform. It makes the whole experience of organizing a meetup much much easier.
 
 ### Future
 
