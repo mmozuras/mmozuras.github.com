@@ -15,7 +15,7 @@ I've always enjoyed food. That's partly why I needed to [lose 26kg](/how-i-keep-
 
 I feel confident writing code. I understand quite well what happens with the code I've written. Not entirely, there are too many levels and abstractions, but well enough to be confident. As a curious geek, I'm used to knowing what's going behind the scenes. I've figured out that's what's missing for me with cooking. I barely understood what happens when I apply high heat to a steak. I had no idea why I was using salt. I could've experimented, but those experiments would've taken a lot of time and ruined a lot of food.
 
-Enter "The Food Lab." It's a massive 1,000 pages tome written by J. Kenji López-Alt, who starts the book with a proclamation "I’m a nerd, and I’m proud of it." Kenji graduated from MIT. There he figured he loves science but abhors the practice it. Thus he took up cooking.
+Enter "The Food Lab." It's a massive 1,000 pages tome written by J. Kenji López-Alt, who starts the book with a proclamation "I’m a nerd, and I’m proud of it." Kenji graduated from MIT. There he figured he loves science but abhors the practice of it. Thus he took up cooking.
 
 Kenji's background shows in his writing. "The Food Lab" is not a recipe book. It's a textbook, a manual for cooking. While it's full of great recipes, for me, they were secondary. More important was learning how salt affects the protein structure and why it matters. Did you know that scrambled eggs salted after cooking “weep,” but eggs salted 15 minutes in advance retain their moisture?
 
