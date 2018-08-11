@@ -201,6 +201,11 @@ article {
     height: 1px;
     margin: $hr-spacing !important;
   }
+
+  img {
+    max-height: 100%;
+    max-width: 100%;
+  }
 }
 
 article.talk {
