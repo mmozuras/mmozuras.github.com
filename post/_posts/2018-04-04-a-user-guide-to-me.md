@@ -65,7 +65,7 @@ I love reading. If I came early to a meeting and you find me looking at my phone
 
 I care about people. Sometimes too much. I've made decisions in the past driven primarily by how someone will feel. I've regretted some of those decisions. I work at becoming better at making decisions.
 
-The best way to get me to do something is to tell me that I can't do it. I will work hard to prove to myself that I can do it.
+[Kuyashii](https://medium.com/@jessengle/kuyashii-8909d9410209): the best way to get me to do something is to tell me that I can't do it. I will work hard to prove to myself that I can do it.
 
 The worst way to get me to do something is to tell me to do it without explaining the context. Even if you've described the context, don't push me to commit immediately. I need time to process new information. I commit deliberately. If you want me to commit during a meeting, send me data beforehand.
 
