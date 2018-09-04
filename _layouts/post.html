@@ -5,7 +5,13 @@ layout: default
 <div class="content">
   <article>
     <header>
-      <h1>{{ page.title }}</h1>
+      <h1>
+        {% if page.external-url %}
+          <a class="external" href="{{ page.external-url }}">{{ page.title }}</a>
+        {% else %}
+          <h1>{{ page.title }}</h1>
+        {% endif %}
+      </h1>
     </header>
 
     {{ content }}
