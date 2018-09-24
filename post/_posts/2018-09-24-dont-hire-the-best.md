@@ -29,7 +29,7 @@ Let's start with something I'm quite familiar with. I want to hire a software de
 
 Everyone undergoes training starting a new job. Before I've joined Vinted as a software developer, I was a software developer at Adform. While both roles are called "software developer," they are two different roles. Being a software developer at one company is not the same as being a software developer at another company. Languages, technologies, processes, product, culture - a lot of things can be different. Learning to become effective in a new environment requires training, even if it's not always identified as such.
 
-Companies themselves change. I've worked at three different versions of Vinted. And there were many mano minor iterations. Each time I had to learn new things and adapt.
+Companies themselves change. I've worked at three different versions of Vinted. And there were many more minor iterations. Each time I had to learn new things and adapt.
 
 "Anyone can be" is true for any position. Anyone can be a product manager. Anyone can be a designer. Anyone can be a CEO. Anyone can be anything. Just not anything at once. All it takes is a willingness to learn, appropriate training and time.
 
