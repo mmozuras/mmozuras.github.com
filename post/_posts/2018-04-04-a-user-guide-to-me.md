@@ -1,5 +1,4 @@
 ---
-layout: post
 title: A User Guide to Me
 background: vinted
 excerpt_separator: <!--more-->

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Pronto Labs
 background: lab
 excerpt_separator: <!--more-->

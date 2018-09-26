@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Written in Ink
 background: ink
 excerpt_separator: <!--more-->

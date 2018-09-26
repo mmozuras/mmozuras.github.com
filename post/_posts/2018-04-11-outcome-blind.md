@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Outcome Blind
 background: gifts
 excerpt_separator: <!--more-->

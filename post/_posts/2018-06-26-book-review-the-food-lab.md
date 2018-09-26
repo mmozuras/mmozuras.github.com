@@ -1,5 +1,4 @@
 ---
-layout: post
 title: 'Book Review: The Food Lab'
 background: food
 excerpt_separator: <!--more-->

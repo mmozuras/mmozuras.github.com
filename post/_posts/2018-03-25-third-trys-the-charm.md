@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Third Try's the Charm
 background: three
 ---

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Cool Projects
 background: silicon_valley
 reddit: https://www.reddit.com/r/programming/comments/7hgs3x/cool_projects_dragonball_z_billboards_why_silicon/

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: How I Keep 26kg Lost
 excerpt_separator: <!--more-->
 ---

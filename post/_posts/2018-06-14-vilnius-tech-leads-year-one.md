@@ -1,5 +1,4 @@
 ---
-layout: post
 title: 'Vilnius Tech Leads: Year One'
 background: compass
 excerpt_separator: <!--more-->

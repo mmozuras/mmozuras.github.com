@@ -1,5 +1,4 @@
 ---
-layout: post
 title: How I Write
 background: corona
 excerpt_separator: <!--more-->
