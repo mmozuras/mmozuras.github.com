@@ -1,6 +1,6 @@
 ---
-layout: post
 title: Don't Hire The Best
+hn: //news.ycombinator.com/item?id=18056293
 background: superman
 ---
 
