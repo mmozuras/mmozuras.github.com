@@ -143,7 +143,7 @@ article {
   line-height: $post-font-line-height;
   margin: 0 auto $space-between-posts / 2 * 1em;
   padding: 0;
-  width: $content-width;
+  width: 40rem;
 
   @media only screen and (min-width: 0px) and (max-width: 1200px) {
     margin-bottom: 0;
