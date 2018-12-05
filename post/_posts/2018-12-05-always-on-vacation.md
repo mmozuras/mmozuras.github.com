@@ -1,6 +1,7 @@
 ---
 title: Always on Vacation
 excerpt_separator: <!--more-->
+hn: //news.ycombinator.com/item?id=18611908
 background: thailand
 ---
 
