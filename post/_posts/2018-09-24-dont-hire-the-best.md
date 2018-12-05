@@ -1,10 +1,13 @@
 ---
 title: Don't Hire The Best
+excerpt_separator: <!--more-->
 hn: //news.ycombinator.com/item?id=18056293
 background: superman
 ---
 
 We've been hiring a lot this year at Vinted. Our hiring pipeline has multiple steps, and we select only a small percentage of candidates. I never previously checked the exact number. A couple of weeks ago I saw a quote with the answer:
+
+<!--more-->
 
 > 1.89% success rate, it's quite a challenge to join Vinted
 
