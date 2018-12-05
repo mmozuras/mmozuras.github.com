@@ -49,6 +49,6 @@ The same as with weight, the key was to measure, understand, adjust. Here are so
 * I've become better at trusting other people and allowing them to help me.
 * I read a book before sleep. I've been doing that more or less since grade school. This year more than less. It allows my brain to cool down and forget the day's worries.
 
-There's still room for improvement before I reach "always on vacation." Thought this goal might be something to be strived for, but never achievable.
+There's still room for improvement before I reach "always on vacation." Though this goal might be something to be strived for, but never achievable.
 
 I'm happy with the new-found tranquility I feel. I hope that I've managed to build new habits which will allow me to keep it long-term.
