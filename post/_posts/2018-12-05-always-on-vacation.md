@@ -2,6 +2,7 @@
 title: Always on Vacation
 excerpt_separator: <!--more-->
 hn: //news.ycombinator.com/item?id=18611908
+reddit: //reddit.com/r/fitbit/comments/a3g0ri/always_on_vacation_how_ive_used_fitbit_charge_2/?
 background: thailand
 ---
 
