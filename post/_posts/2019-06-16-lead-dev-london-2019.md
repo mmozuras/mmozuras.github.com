@@ -12,7 +12,9 @@ The things my co-workers and I learned over the years in Lead Dev have greatly i
 
 I came to this year's conference in London without getting familiar with the schedule. I didn't have to. The conference is a two-day single-track event, and I trust the organizers with their curation skills. Even if I have never been able to get invited to speak myself. Not for lack of trying. The bar is high, and I hope to be someday able to clear it.
 
-The videos from the conference will be uploaded in a couple of weeks, I recommend to check them out. In the meanwhile, I share some of my notes from the talks. These are notes, so I'm not sure how useful they'll be for someone, who has not attended the conference. But hopefully, they'll at least give you the sense of what Lead Dev is about and inspire you to visit also. Listed in chronological order.
+The videos from the conference will be uploaded in a couple of weeks, I recommend to check them out. In the meanwhile, I share some of my notes from the talks. I don't agree with everything I share here, but I found all of it interesting and compelling. Hopefully, they'll give you the sense of what Lead Dev is about and inspire you to visit also. Listed in chronological order.
+
+------
 
 ### [Lara Hogan](//twitter.com/lara_hogan), <i>Navigating team friction</i>
 
