@@ -1,9 +1,12 @@
 ---
 title: Notes from The Lead Developer London 2019
 background: london
+excerpt_separator: <!--more-->
 ---
 
 On 11th and 12th of June, I attended [The Lead Developer London 2019 conference](//london2019.theleaddeveloper.com). This was my fourth time attending Lead Dev. I've also attended it in [2015](//2015.theleaddeveloper.com), [2016](//2016.theleaddeveloper.com) and [2017](//2017.theleaddeveloper.com). I went alone to the first Lead Dev ever in 2015. Every subsequent time I brought more and more co-workers from [Vinted Engineering](//engineering.vinted.com). The conference itself grew too. It's now in multiple countries around the world and welcomes multiple times more participants.
+
+<!--more-->
 
 The things my co-workers and I learned over the years in Lead Dev have greatly influenced how we work and lead at Vinted. As one of us said this year - "it's the most useful conference I've ever attended". Lead Dev is also the conference that inspired the existence of [Vilnius Tech Leads](/vilnius-tech-leads-year-one).
 
