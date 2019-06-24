@@ -79,6 +79,7 @@ header {
     padding: .2em 0;
     position: absolute;
     text-transform: $title-text-transform;
+    top: 0;
     width: 100%;
 
     nav {
@@ -181,6 +182,7 @@ article {
   header {
     border: 0;
     padding: 0;
+    position: relative;
 
     @media only screen and (max-width: 1200px) {
       margin-bottom: 0;
