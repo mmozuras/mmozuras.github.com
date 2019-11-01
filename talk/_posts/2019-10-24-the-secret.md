@@ -12,4 +12,4 @@ Presented at Agile Tour.
 
 ## Slides
 
-<script async class="speakerdeck-embed" data-id="a48939407ce544de989851af2acaa637" data-ratio="1.77777777777778" src="//speakerdeck.com/assets/embed.js"></script>
+<script class="speakerdeck-embed" data-id="a48939407ce544de989851af2acaa637" data-ratio="1.77777777777778" src="//speakerdeck.com/assets/embed.js"></script>

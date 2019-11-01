@@ -9,7 +9,7 @@ Presented at LOGIN Vilnius, Carousell TechTalk Singapore, Build Stuff Vilnius, B
 
 ## Slides
 
-<script async class="speakerdeck-embed" data-id="94e5ec1d53904d8390c1e699e7531bec" data-ratio="1.77777777777778" src="//speakerdeck.com/assets/embed.js"></script>
+<script class="speakerdeck-embed" data-id="94e5ec1d53904d8390c1e699e7531bec" data-ratio="1.77777777777778" src="//speakerdeck.com/assets/embed.js"></script>
 
 ## Video
 
