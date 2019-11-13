@@ -8,7 +8,7 @@ The Secret of writing code is that it's not about writing code. Teams, not indiv
 
 Learn how writing code is similar to other team activities, including basketball. Take a journey with me through basketball rivalry, people, code and building teams at Vinted. Great teams don't just happen, they are intentionally formed.
 
-Presented at Agile Tour.
+Presented at No Trolls Allowed and [Agile Tour](//2019.agileturas.lt/vilnius/speaker/mindaugas-mozuras/).
 
 ## Slides
 
