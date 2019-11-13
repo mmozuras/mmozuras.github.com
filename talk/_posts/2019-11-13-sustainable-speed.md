@@ -1,6 +1,6 @@
 ---
-title: The Secret
-permalink: talk/the-secret
+title: Sustainable Speed
+permalink: talk/sustainable-speed
 ---
 
 This talk is about how we approach Engineering at Vinted. Sustainable speed is a crucial element of our approach.
