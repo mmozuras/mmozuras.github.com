@@ -7,7 +7,7 @@ This talk is about how we approach Engineering at Vinted. Sustainable speed is a
 
 Everyone values speed. Fast is better than slow. At Vinted, we value speed too. But we recognize the differences between short-term speed and long-term speed. Instead of a short-term burst, we want to be sustainably fast.
 
-Presented at [Mobile One](//www.mobile.one) and [VilniusPHP](//vilniusphp.lt).
+Presented at [Mobile One](//www.mobile.one), [DeX](https://www.eventbrite.com/e/dex-07-tech-team-leadership-tickets-88008272111#) and [VilniusPHP](//vilniusphp.lt).
 
 ## Slides
 
