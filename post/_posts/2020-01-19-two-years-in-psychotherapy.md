@@ -4,7 +4,7 @@ background: couch
 excerpt_separator: <!--more-->
 ---
 
-This blog post is accompanied by an image of a psychotherapist couch. If you've never been to therapy, you might associate the image of this couch with therapy. While my therapist did indeed have a piece of similar furniture, I never lay on it, instead choosing to sit face-to-face with her.
+This blog post is accompanied by an image of a psychotherapist's couch. If you've never been to therapy, you might associate the image of this couch with therapy. While my therapist did indeed have a piece of similar furniture, I never lay on it, instead choosing to sit face-to-face with her.
 
 I continue to encounter stigma and misconceptions about therapy. I hope this post about my two-year experience will help to continue normalizing the practice of going to therapy. There were people in my life who were open about their psychotherapy experience, which made it easier to try it myself. On the web, [Zach Holman's example][holman] was quite inspiring.
 
