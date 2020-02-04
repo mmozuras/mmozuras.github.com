@@ -1,6 +1,7 @@
 ---
 title: Trust in Humans as a Service
 background: trust
+hn: //news.ycombinator.com/item?id=22232771
 excerpt_separator: <!--more-->
 ---
 
