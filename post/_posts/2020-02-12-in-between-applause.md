@@ -61,9 +61,9 @@ The nervousness? Gone in an instant. I gave the talk. It went as well as I could
 
 Applause.
 
-I got approached by a couple of attendees with questions. If you have doubts about whether to walk up to someone after they gave a talk - please do. Most speakers are in still under the adrenaline rush from giving a speech and are ready to engage with other human beings.
+After the talk, I got approached by several attendees with questions. If you have doubts about whether to walk up to someone after they gave a talk - please do. Most speakers are in still under the adrenaline rush from giving a speech and are ready to engage with other human beings.
 
-Fast-forward to a couple of days later, my talk was selected among the favourites. Well, I thought to myself, this went all right - I unquestionably have to repeat all this fun public speaking thing 😅.
+Fast-forward to a couple of days later, my talk was selected among the favourites. Well, I thought to myself, this went all right - I unquestionably have to repeat this fun public speaking thing 😅.
 
 <div>
   <a href="/assets/images/mobileone top.jpg">
