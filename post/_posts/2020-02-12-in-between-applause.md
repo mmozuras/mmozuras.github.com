@@ -4,7 +4,7 @@ background: mobileone
 excerpt_separator: <!--more-->
 ---
 
-I've been doing public speaking for years. I slowly became better at it than I was ten years ago. In this blog post, I walk through my experience giving a talk at [MobileOne][mobile] on November 13th last year. Throughout, I share how I build, prepare and give a presentation.
+I've been public speaking [for years][talks] now. In this blog post, I walk through my experience giving a talk at [MobileOne][mobile] on November 13th last year. Throughout, I share how I build, prepare and give a presentation.
 
 <!--more-->
 
@@ -78,6 +78,7 @@ Fast-forward to a couple of days later, my talk was selected among the favourite
 [keynote]: //www.apple.com/keynote/
 [speaking]: //speaking.io
 [speed]: /talk/sustainable-speed
+[talks]: /talks
 [impostor]: //en.wikipedia.org/wiki/Impostor_syndrome
 [shot]: //www.youtube.com/watch?v=Ic7NqP_YGlg
 [confessions]: //www.goodreads.com/book/show/6918930-confessions-of-a-public-speaker
