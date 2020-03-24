@@ -20,7 +20,7 @@ We were not sure where we want to go, so we started by making a shortlist of cou
 
 We then proceeded to make a plan for our vacation. We created a google sheet with our itinerary for the whole trip. I removed some personal information from our Mexico vacation itinerary and made it public [here][sheet]. Feel free to use it as a template for your vacation. I've previously shared it with one of my friends, and he found it quite useful. I hope that someone else also will.
 
-We didn't end up following the plan exactly (as is true for most plans). We would also change a couple of things. We would skip Tulum, and use those days somewhere days. For our lazy not-in-a-hurry travel style, we would like one less location. At least one of those days would end up being an additional day in Isla Mujeres.
+We didn't end up following the plan exactly (as is true for most plans). We would also change a couple of things. We would skip Tulum, and use those days somewhere else. For our lazy not-in-a-hurry travel style, we would like one less location. At least one of those days would end up being an additional day in Isla Mujeres.
 
 Before the trip, we were slightly worried about our safety when in México. Both violent and non-violent crime is common throughout the state. The word "cartel" is often used in conjunction with México. We were reassured by reading that crime is mostly encountered in the northern parts and not in the touristy parts of the country. The government also cracks down hard on crime against tourists - as tourism creates significant revenue.
 
