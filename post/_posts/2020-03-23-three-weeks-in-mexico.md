@@ -4,7 +4,7 @@ background: mexico
 excerpt_separator: <!--more-->
 ---
 
-In this short post, I share my thoughts after coming back from vacation right back into a pandemic. Those thoughts include how we planned our vacation and some highlights from the vacation itself.
+In this post, I share my thoughts after coming back from vacation right back into a pandemic. I tell a bit about how my fiancée and I planned our vacation and some highlights from the trip itself.
 
 <!--more-->
 
