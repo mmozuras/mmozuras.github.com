@@ -4,7 +4,7 @@ background: mexico
 excerpt_separator: <!--more-->
 ---
 
-In this short post, I share my thoughts after coming back from vacation right back into a pandemic. Those thoughts include how my fiancée and I planned our vacation. I hope someone will find the itinerary and our template useful for when the COVID-19 crisis is over.
+In this short post, I share my thoughts after coming back from vacation right back into a pandemic. Those thoughts include how we planned our vacation and some highlights from the vacation itself.
 
 <!--more-->
 
