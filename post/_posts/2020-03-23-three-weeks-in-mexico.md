@@ -44,4 +44,4 @@ Hope that a post about travelling didn't annoy too much at this time when we all
 [guide]: /a-user-guide-to-me
 [instagram]: //instagram.com/mmozuras/
 [lab]: /book-review-the-food-lab
-[quintonil]: theworlds50best.com/the-list/21-30/Quintonil.html
+[quintonil]: //theworlds50best.com/the-list/21-30/Quintonil.html
