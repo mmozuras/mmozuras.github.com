@@ -12,3 +12,7 @@ Presented at No Trolls Allowed and [Agile Tour](//2019.agileturas.lt/vilnius/spe
 ## Slides
 
 <script class="speakerdeck-embed" data-id="a48939407ce544de989851af2acaa637" data-ratio="1.77777777777778" src="//speakerdeck.com/assets/embed.js"></script>
+
+## Video
+
+{% include youtube_embed.html id="bQYJEj7w0q4" %}
