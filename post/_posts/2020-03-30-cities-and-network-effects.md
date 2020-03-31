@@ -50,9 +50,9 @@ Currently, there are more than 30k technologists in Lithuania. 70% of them work 
 
 Now, before I write the next paragraph, a couple of disclaimers. I love Kaunas. I enjoy visiting, walking down the Freedom Alley and hopping into "Spurginė". [I root for "Žalgiris"][secret].
 
-Considering the network effects, it could be better for Lithuania in the long-term if we'd focus investments into Vilnius. That's not what currently happening. For example, Invest Lithuania wants to bring [more investments into Kaunas][invest]. That's good and better than those investments not arriving at all. But it might not be the right choice long-term. Lithuania might be better off if we'd focus on making one city great, instead of two cities good.
+Considering the network effects, it could be better for Lithuania in the long-term if we'd focus investments into Vilnius. That's not what currently happening. For example, Invest Lithuania wants to bring [more investments into Kaunas][invest]. That's good and better than those investments not arriving at all. But it might not be the right choice long-term. Lithuania might be better off if we'd focus on making one city great, instead of two cities good. Though, emotionally (including for me) that would be a tough choice to make.
 
-Now when everyone in Kaunas hates me... Let's also not forget that network effects are not everything. But they are a lot. Network effects make [cities better problem solvers][localism]. And as Edward Glaeser wrote, they make cities [humanity's greatest invention][city]. As long as we invest in the right infrastructure.
+Now when everyone in Kaunas hates me... Let's not forget that network effects are not everything. But they are a lot. Network effects make [cities better problem solvers][localism]. And as Edward Glaeser wrote, they make cities [humanity's greatest invention][city]. As long as we invest in the right infrastructure.
 
 [mexico]: /three-weeks-in-mexico
 [ben]: //stratechery.com/about/
