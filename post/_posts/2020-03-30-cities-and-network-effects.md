@@ -1,6 +1,7 @@
 ---
 title: Cities and Network Effects
 background: cityscape
+hn: //news.ycombinator.com/item?id=22734887
 excerpt_separator: <!--more-->
 ---
 
