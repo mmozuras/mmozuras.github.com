@@ -18,7 +18,7 @@ Don't wait until our 1:1 with an urgent issue/opportunity. If you need me, I wil
 
 I prefer to receive status updates asynchronously. To that end, I'll sometimes ping you with a question over Slack.
 
-We’ll have [a staff meeting](http://randsinrepose.com/archives/gossip-rumors-and-lies/) with you and your peers every week for 60 minutes. We have a Slack channel, where we capture agenda topics. The goal is to discuss topics of substance and to solve problems that affect us.
+We’ll have [a staff meeting](http://randsinrepose.com/archives/gossip-rumors-and-lies/) with you and your peers every week for at least 90 minutes. We have a Slack channel, where we capture agenda topics. The goal is to discuss topics of substance and to solve problems that affect us.
 
 If you need me to respond quickly, call me or SMS me. I usually respond slowly to written communication. I value focus. Slack and work email doesn't exist on my phone. If you'll email me or Slack me during non-working hours, you usually won't receive an answer until I am at work.
 
