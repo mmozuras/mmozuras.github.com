@@ -2,7 +2,6 @@
 title: "Moneycode: Moneyball-inspired Thoughts on Hiring"
 background: baseball
 excerpt_separator: <!--more-->
-hn:
 ---
 
 I've recently read [Moneyball](//goodreads.com/review/show/3596995010), a book seemingly about baseball. It's not. Moneyball is about analytics, data-driven culture, and how to apply analytics to picking players. In this blog post, I share my thoughts on the book and the parallels between selecting players in baseball and hiring.
