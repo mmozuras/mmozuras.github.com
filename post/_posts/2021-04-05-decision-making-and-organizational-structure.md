@@ -4,7 +4,9 @@ background: chess
 excerpt_separator: <!--more-->
 ---
 
-During the past couple of months, I've been thinking a lot about organizational structure. An organizational structure defines how work is done, information flows, and decisions are made in a company, department, or team. I realized that structure is fundamentally about the trade-off between integration/cohesion and speed of decision-making. In this blog, I focus on how different organizational structures affect decision-making and how to think about these trade-offs.
+During the past couple of months, I've been thinking a lot about organizational structure. Specifically, the book [Team Topologies: Organizing Business and Technology Teams for Fast Flow](//goodreads.com/book/show/44135420-team-topologies) was the first trigger to consider the theory of organizational structure.
+
+An organizational structure defines how work is done, information flows, and decisions are made in a company, department, or team. I realized that structure is fundamentally about the trade-off between integration/cohesion and speed of decision-making. In this blog, I focus on how different organizational structures affect decision-making and how to think about these trade-offs.
 
 <!--more-->
 
@@ -50,6 +52,8 @@ Here's the graph showing how the options compare across the speed/cohesion axis.
   </a>
 </div>
 
+Note that this graph evaluates only the writers. Team A has strong cohesion in all three cases.
+
 As the third example shows, these options can be further augmented to increase or decrease cohesion. That's usually done by defining the relationship between team members and their leads. If we'd like an even stronger cohesion, the whole team could approve the work in the third example. Of course, that would further reduce decision-making speed.
 
 Organizational structure is the focus of this blog post but is not the end-all-be-all. Other tactics could improve cohesion with a minor sacrifice of decision-making speed, like good onboarding and having a writing style guide. And again, none of the options are inadequate. They purely depend on what's imperative for your company.
@@ -60,7 +64,7 @@ In the world of software engineering, cross-functional teams are now the most co
 
 If we look through the lens of cohesion, that's not surprising. In most tech companies, it's more important to have cohesion around business objectives than around functions.
 
-Imagine a functional organization - a team of software of engineers, a team of designers, and a team of product managers. To achieve cohesion around business objectives, all these functions (and their leads) need to be on the same page. That's a lot of work. Instead, cross-functional teams make sense for most organizations.
+Imagine a functional organization - a team of software of engineers, a team of designers, and a team of product managers. To achieve cohesion around business objectives, all these functions (and their leads) need to be on the same page. That's a lot of work. Instead, cross-functional teams make sense for most organizations. Simultaneously, most companies usually have some kind of functional reporting line to maintain cohesion around functions.
 
 Of course, there are exceptions. Apple is the first one that jumps to my mind. From what is visible from outside about the secretive company and is occasionally [discussed in articles](//hbr.org/2020/11/how-apple-is-organized-for-innovation), Apple is organized around functions. Through their products, we can see how strongly they value functional cohesion.
 
@@ -68,4 +72,4 @@ Of course, there are exceptions. Apple is the first one that jumps to my mind. F
 
 As I mentioned a couple of times in this post, there is no perfect organizational structure. Apple and Amazon structure their teams in entirely different ways, yet both companies are very successful. Both of these companies found what worked best for their businesses.
 
-Each team and organization needs to figure out the proper structure for them. Finding the right structure is critical if you want to build a well-functioning organization. In addition to other concerns, that means balancing the fundamental trade-off of decision-making speed and cohesion. I hope this insight on the fundamental trade-off helps you as it does help me.
+Each team and organization needs to figure out the proper structure for them. Finding the right structure is critical if you want to build a well-functioning organization. In addition to other concerns, that means deciding which parts of the organization need to have strong cohesion and then balancing the fundamental trade-off of decision-making speed and cohesion. I hope this insight on the fundamental trade-off helps you as it does help me.
