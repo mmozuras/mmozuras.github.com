@@ -8,7 +8,7 @@ On April 8th, I attended [LeadingEng 2022 New York conference](//leaddev.com/lea
 
 <!--more-->
 
-This event is the first LeadDev organized affair aimed strictly at Director/VP/CTO level technology leaders. The LeadDev series of events are aimed at any kind of engineering leader. Below I share my notes from the talks. I don't necessarily agree with everything, but I found all of it interesting. I hope it can give a sense of what StaffPlus is all about. My notes are listed below in chronological order.
+This event is the first LeadDev organized affair aimed strictly at Director/VP/CTO level technology leaders. The LeadDev series of events are aimed at any kind of engineering leader. Below I share my notes from the talks. I don't necessarily agree with everything, but I found all of it interesting. I hope it can give a sense of what LeadingEng is all about. My notes are listed below in chronological order.
 
 ------
 
