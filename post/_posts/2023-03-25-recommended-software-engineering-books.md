@@ -51,4 +51,4 @@ As a final thing, for the visual world of today, here's this list as a single im
 
 <div><img src="/assets/images/recommended books.jpg" alt="recommended software engineering books"></div>
 
-I hope that someone will find these recommendations helpful. If you have any recommendations of your own, don't hesitate to reach out [to me[(/about).
+I hope that someone will find these recommendations helpful. If you have any recommendations of your own, don't hesitate to reach out [to me](/about).
