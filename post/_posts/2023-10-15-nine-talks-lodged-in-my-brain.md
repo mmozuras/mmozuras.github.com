@@ -46,7 +46,7 @@ But some conference talks remain lodged in my brain. And while books and podcast
 
 #### [Emery Berger - Performance Matters](https://www.youtube.com/watch?v=r-TLSBdHe1A) (Strange Loop, 2019)
    - **Summary:** Emery dives deep into the nuances of software performance, illustrating its importance and ways to achieve it.
-   - **Why I Loved It:** Because performance does actually matter, and it's good to be reminded of it.
+   - **Why I Loved It:** Because performance does actually matter, and it's good to be reminded of it. With the impressive hardware of today, we sometimes forget. I know I do.
 
 (_I haven't yet visited Strange Loop in person, despite holding the conference in very high regard_)
 
