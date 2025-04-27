@@ -4,6 +4,8 @@ background: thicket
 excerpt_separator: <!--more-->
 ---
 
+This blog post was triggered by my manager and Vinted's CEO discussing his personal growth during the latest company all-hands. His honest and open reflection in front of the entire company caused me to reflect on some parts of my growth journey.
+
 When people talk about growth, they usually talk about adding new skills, habits, or knowledge. This form of growth feels exciting and fulfilling, as it often visibly expands capabilities and opportunities. Yet, another kind of growth is more challenging and, at least in my experience, more profound.
 
 <!--more-->
@@ -59,5 +61,9 @@ This healthier balance allowed me to approach challenges more level-headedly and
 Growth through personal change is uncomfortable precisely because it involves reshaping core parts of who we are, not merely adding new ones. Yet, in my experience, these uncomfortable adjustments lead to the most meaningful growth.
 
 The transformations I wrote about above were some of my professional life's more critical growth moments. They were painful, as both required changing something that became a core part of my identity. But ultimately, not only did they make me more effective, but they also made me a happier human being.
+
+To enable these personal changes, I had to understand myself more deeply. I had to reflect on my identity and understand how those pieces of my identity came to be. And not only once but continuously, as I encountered situations that brought forward those pieces of my identity. Through these self-reflections, I could start adjusting myself and my behaviour.
+
+(_thanks to my wife for learning to ask open-ended questions that enable self-reflection instead of suggesting solutions_)
 
 Any kind of change isn't easy. I hope this blog post was at least interesting to read and, at best, inspired to reflect on a piece of you that you find difficult to let go of.
