@@ -48,7 +48,7 @@ Before 2021, Vinted was a company with a single business - Marketplace, and to t
 
 (_[Vinted Go is doing quite well](https://vintedgo.com/en), by the way_)
 
-I was very much an advocate for this change. For Vinted Go to succeed, it needs to be able to operate more autonomously. My principled side knew that this was the right thing to do. However, adding a second business unit also meant reviewing and changing the top management team. I could argue that engineering only needs leaders in both business units, not an overall leader. Because of my principled side, I did make that argument to my manager and peers.
+I was very much an advocate for this change. For Vinted Go to succeed, it needs to be able to operate more autonomously. My principled side knew that this was the right thing to do. However, adding a second business unit also meant reviewing and changing the top management team, of which I was a part. I could have argued that engineering only needs leaders in both business units, not an overall leader. Because of my principled side, I did make that argument to my manager and peers.
 
 I found myself feeling uncertain about my future at Vinted, partly thanks to my logical side. Suddenly, my sense of self-esteem, which I had inadvertently linked tightly to Vinted, was at stake. At that time, I was surprised to discover how deeply my identity was intertwined with Vinted's. This discovery wasn't just adding a new perspective—it was actively dismantling a part of my identity that had quietly grown around my work.
 
