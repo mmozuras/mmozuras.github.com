@@ -64,6 +64,6 @@ The transformations I wrote about above were some of my professional life's more
 
 To enable these personal changes, I had to understand myself more deeply. I had to reflect on my identity and understand how those pieces of my identity came to be. And not only once but continuously, as I encountered situations that brought forward those pieces of my identity. Through these self-reflections, I could start adjusting myself and my behaviour.
 
-(_thanks to my wife for learning to ask open-ended questions that enable self-reflection instead of suggesting solutions_)
+(_thanks to my wife for asking open-ended questions that enable self-reflection instead of suggesting solutions_)
 
 Any kind of change isn't easy. I hope this blog post was at least interesting to read and, at best, inspired to reflect on a piece of you that you find difficult to let go of.
