@@ -32,8 +32,7 @@ In "Unmasking Autism", there are many examples of what autistic people experienc
 - I have routines, and I don't get bored with them. I have eaten the same breakfast every day for half a year. When I listen to music at work, I usually run albums on repeat for a while. During the last couple of months, it has been the Severance soundtrack.
 - I'm introverted and socially most comfortable when there's an activity (my go-to being board games). I avoided social situations in my youth. Sitting and chatting for over an hour can become tough unless an interesting debate engages me intellectually. It's also difficult for me to keep eye contact for extended periods. It requires conscious effort.
 - I do [stimming](https://en.wikipedia.org/wiki/Stimming) - repetitive movements or behaviours that help regulate sensory input. One example of that in my childhood was biting my clothes, ruining them by leaving holes in them. These days, it's mainly limited to playing around with a pencil or pieces of paper during meetings.
-
-My hobbies include chess, board games, reading, cooking, running, and writing. Many of these activities involve planning and structure (and some repetition). I can imagine that cooking might look like the odd one out for some - I approach it by ordering ingredients in advance, knowing which recipes I will make, and editing those recipes to improve them.
+- My hobbies include chess, [board games](/outcome-blind), [reading](/how-i-consume-books), [cooking](/book-review-the-food-lab), running, and writing. Many of these activities involve planning and structure (and some repetition). I can imagine that cooking might look like the odd one out for some - I approach it by ordering ingredients in advance, knowing which recipes I will make, and editing those recipes to improve them.
 
 These aren't new revelations. They're just how I am. But reading the book gave me a different framing: maybe these aren't just quirks. They may be patterns. So I asked myself: Am I autistic?
 
@@ -49,7 +48,7 @@ Having this answer, I've contemplated whether I want to take any further steps. 
 
 Going deeper into this topic helped me reflect and understand my experiences better and allowed me to find more resources.
 
-But even more importantly, it gave me a much deeper appreciation for how people experience the world differently. As another step towards understanding others better, I plan to read a book about ADHD, something that I only have a cursory understanding of. I'm lucky that I had a very supportive environment during my life, especially my childhood, where my preferences, habits, and strategies worked. Not everyone is as lucky.
+But even more importantly, it gave me a much deeper appreciation for how people experience the world differently. As another step towards understanding others better, I plan to read [a book about ADHD](https://www.goodreads.com/book/show/53231680-adhd-2-0), something that I only have a cursory understanding of. [I'm lucky](/lucky) that I had a very supportive environment during my life, especially my childhood, where my preferences, habits, and strategies worked. Not everyone is as lucky.
 
 Empathy matters. Empathy isn't just being nice - it's realizing that what feels easy or comfortable to you might be a struggle for someone else.
 And the inverse is true, too. People you admire - who seem focused, driven, even brilliant - might be masking huge parts of themselves just to fit in.
