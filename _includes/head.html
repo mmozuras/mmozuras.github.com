@@ -29,16 +29,6 @@
   <meta name="author" content="{{ site.author.name }}" >
   <meta name="description" content="{{ description }}">
 
-  <meta name="twitter:card" content="summary_large_image">
-  <meta name="twitter:site" content="@{{ site.author.twitter }}">
-  {% if page.title %}
-    <meta name="twitter:creator" content="@{{ site.author.twitter }}">
-  {% endif %}
-  <meta name="twitter:title" content="{{ title }}">
-  <meta name="twitter:description" content="{{ description }}">
-  <meta name="twitter:image" content="{{ image }}">
-  <meta name="twitter:url" content="{{ page.url | prepend: site.url }}">
-
   <meta property="og:type" content="{% if page.title %}article{% else %}website{% endif %}">
   <meta property="og:title" content="{{ title }}">
   <meta property="og:description" content="{{ description }}">
