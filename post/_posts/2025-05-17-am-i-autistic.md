@@ -8,7 +8,7 @@ A book made me ask myself: am I autistic? It turns out that the answer didn't ma
 
 <!--more-->
 
-Last year, in 2024, I was asked to sponsor Vinted's Neurodiversity Week. At first, I wasn't sure what I could meaningfully contribute, but I felt it was essential to be involved. So, I wrote a Slack message to the whole company. Here's what I promised in that message:
+Last year, in 2024, I was asked to sponsor the Neurodiversity Week at Vinted. At first, I wasn't sure what I could meaningfully contribute, but I felt it was essential to be involved. So, I wrote a Slack message to the whole company. Here's what I promised in that message:
 
 > I want to improve and broaden my understanding. In addition to participating in the initiatives, I also decided to (this won't be surprising to those who know me) read a book on the topic. I've selected Unmasking Autism, but I'm open to other recommendations (please message me). I hope, with time and effort, to become more aware and conscious.
 
