@@ -36,7 +36,7 @@ In "Unmasking Autism", there are many examples of what autistic people experienc
 
 These aren't new revelations. They're just how I am. But reading the book gave me a different framing: maybe these aren't just quirks. They may be patterns. So I asked myself: Am I autistic?
 
-(_one friend was surprised that I've only asked that now instead of much earlier in life_)
+(_multiple friends were surprised that I've only asked this question now instead of much earlier in life_)
 
 ### Am I?
 
