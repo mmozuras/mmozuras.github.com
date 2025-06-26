@@ -56,7 +56,7 @@ A couple of months of reflection, mixed with some nights of abysmal sleep, follo
 
 This healthier balance allowed me to approach challenges more level-headedly and with less emotional volatility. This shift didn't diminish my care or passion for Vinted. Instead, it freed me to engage more authentically and sustainably. I genuinely believe that I can contribute better to Vinted's success with this healthier connection.
 
-# Change
+### Change
 
 Growth through personal change is uncomfortable precisely because it involves reshaping core parts of who we are, not merely adding new ones. Yet, in my experience, these uncomfortable adjustments lead to the most meaningful growth.
 
