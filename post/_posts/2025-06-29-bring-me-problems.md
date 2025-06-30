@@ -4,7 +4,7 @@ background: roads
 excerpt_separator: <!--more-->
 ---
 
-I've seen other leaders state or imply, "Don't bring me problems; bring me solutions." It's a management approach that sounds empowering and proactive, invoking an image of a motivated team tackling challenges independently. However, in my opinion, it has more drawbacks than benefits. Below, I write about the origin of this approach, the upside and downside, and how I strive to act instead.
+I've seen other leaders state or imply, "Don't bring me problems; bring me solutions." It's a management approach that sounds empowering and proactive, invoking an image of a motivated team tackling challenges independently. However, in my opinion, it has more drawbacks than benefits. Below, I discuss the advantages and disadvantages of this approach and how I strive to act instead.
 
 <!--more-->
 
