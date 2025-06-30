@@ -41,7 +41,7 @@ From what I've seen, this is not a unique issue among new managers. That didn't 
 
 A solutions-not-problems approach can genuinely feel empowering to the team. A manager is signalling that they trust the member's judgment, creativity, and problem-solving skills. Who wouldn't want to work in an environment like that?
 
-(_I definitely appreciate it when my managers show trust in me_)
+(_I definitely appreciated it when my managers showed trust in me_)
 
 Yet, while this approach works in some cases, it also carries serious downsides.
 
@@ -51,9 +51,7 @@ Over time, managers who, either explicitly or implicitly, discourage problems fr
 
 (_you know, the actual problems facing their teams_)
 
-The key reason why this approach breaks down is reduced transparency. People conceal problems instead of addressing them. When solutions aren't immediately apparent, employees might decide it's safer to not mention the issue at all. Nobody wants to be the bearer of bad news.
-
-(_unless you're Dr. Gregory House_)
+The key reason why this approach breaks down is reduced transparency. People conceal problems instead of addressing them. When solutions aren't immediately apparent, team members might decide it's safer to not mention the issue at all. Nobody wants to be the bearer of bad news.
 
 This reduced transparency can then lead to less collaboration, poorer decisions, and issues festering.
 
@@ -69,6 +67,6 @@ So what's a better approach?
 
 Personally, I prefer something closer to: "Bring me problems - solutions are great if you have them, but let's solve together if you don't." This shifts the tone from "don't bother me until you've fixed it" to "I trust you, and I've got your back."
 
-I want to signal psychological safety and encourage open, honest conversations about what's actually going on. I want to promote ownership, but that doesn't mean isolating myself from the challenges in my team. It's possible to both demanding and supportive.
+I want to signal psychological safety and encourage open, honest conversations about what's actually going on. I want to promote ownership, but that doesn't mean isolating myself from the challenges in my team. It's possible to be both demanding and supportive.
 
 I don't see problems as annoyances - they're opportunities to understand and support. There may be situations when I can help because I know something that my team member doesn't. There will also be situations where we need to figure it out together. Both are great. I trust you, and I've got your back.
