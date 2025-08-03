@@ -68,6 +68,6 @@ There is one positive I got from all this thinking about mortality. It underscor
 
 I helped bring life into the world. Every time I look at my son, I understand how staggering the gift of life is. Not metaphorically. Literally. Life is fragile and fleeting, and that's precisely why it's so valuable. Each moment is a miracle; each interaction is a chance to add meaning to our limited time.
 
-(_"Helped" is exactly right, as my wife did the heavy lifting._)
+(_"Helped bring" is exactly right, as my wife did the heavy lifting._)
 
 I can't pretend I'm at peace with mortality. I'm now even more aware of its weight and the meaning it gives to every moment. Perhaps reflecting on mortality won't eliminate my fear, but it may eventually help transform that fear into gratitude, making each moment count. We die. Which is precisely why living matters.
