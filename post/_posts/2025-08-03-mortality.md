@@ -1,7 +1,7 @@
 ---
 title: Mortality
 background: ember
-excerpt\_separator: <!--more-->
+excerpt_separator: <!--more-->
 ---
 
 The last month, I've been thinking about mortality. This blog post is an attempt to reflect on those thoughts and, in doing so, lighten their weight, making it easier for me to approach the subject in the future.
