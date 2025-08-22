@@ -36,7 +36,7 @@ The drafts this GPT produces are still off. They were way off with GPT-3 and GPT
 
 Getting a helpful draft also requires me to provide enough detail in my initial prompt. Otherwise, how can it try to tell my story? Oddly, unlike writing a draft, writing a long prompt to ChatGPT is easy. I know that it's just a prompt, and I can just throw a bullet list of things I want the draft to include.
 
-Editing these drafts provides me with a very similar experience to refactoring code. It's easier to edit something that vaguely sounds like me than to conjure "me" from scratch.
+Editing these drafts provides me with a very similar experience to refactoring code. It's easier to edit something that vaguely sounds like me than to conjure "me" from scratch. It makes the writing and thinking process more enjoyable for me.
 
 When I'm happy with the text, I also use ChatGPT as a feedback generator. I input my text and ask for feedback. Some of the feedback is very helpful (e.g., noting that a specific paragraph lacks personal details/story), and it forces me to make further edits.
 
@@ -55,7 +55,7 @@ And you can click [here](/static/mortality-draft.txt) to look at the draft that 
 
 If you take a look at both, you can probably see how the two texts are related to each other. Some sentences survived the evolution from the draft to the final text entirely.
 
-Yet, there are also very significant differences. The initial draft is only 550 words (from my 220-word prompt), and the final text is over 1200 words. I added more personal details and stories, and removed some sentences that didn't align with how I want to co
+Yet, there are also very significant differences. The initial draft is only 550 words (from my 220-word prompt), and the final text is over 1200 words. I added more personal details and stories, and removed some sentences that didn't align with how I want to communicate.
 
 (_I can't imagine myself saying "the way the rules were always human-sized"_)
 
