@@ -24,7 +24,7 @@ I've divided my recommendations into five sections: start, level-up, systems, ma
 
 Start - to those at the beginning of their software engineering journey
 - [The Effective Engineer](//goodreads.com/book/show/25238425-the-effective-engineer): infuses the high leverage mindset into thinking about creating software: impact produced / time invested.
-- [The Missing Readme](//goodreads.com/book/show/57271519-the-missing-readme): of the newest books in this list - contains practical advice about the day-to-day of the modern software engineer.
+- [The Missing Readme](//goodreads.com/book/show/57271519-the-missing-readme): one of the newest books in this list - contains practical advice about the day-to-day of the modern software engineer.
 - [The Pragmatic Programmer](//goodreads.com/book/show/4099.The_Pragmatic_Programmer): a collection of wisdom to improve software development. As this book is over 20 years old, some examples might feel dated, but the insight remains relevant.
 
 Level-up - to those taking the next step in their software engineering journey
